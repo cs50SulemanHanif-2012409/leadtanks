@@ -61,6 +61,7 @@ function FBUsersTable() {
             const { data } = await api.get('/admin/fb/users?page=' + currentPage + '&country=' + selectedCountry);
             const { users } = data;
             setUsers(users)
+            setCurrentShow(users)
             setLoading(false)
             setShowIndex(0)
 
