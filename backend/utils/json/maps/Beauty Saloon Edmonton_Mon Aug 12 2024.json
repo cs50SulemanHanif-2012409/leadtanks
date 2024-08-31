@@ -1,0 +1,1212 @@
+[
+  {
+    "placeId": "ChIJz1cEQXCLn1MRPJ9Z2KxGXKI",
+    "address": "212 St 91 Ave NW",
+    "category": "Skin care clinic",
+    "googleUrl": "https://www.google.com/maps/place/Blissfully+Sweet+Aesthetics/data=!4m7!3m6!1s0x539f8b70410457cf:0xa25c46acd8599f3c!8m2!3d53.5250122!4d-113.6861721!16s%2Fg%2F11v0x5lhxd!19sChIJz1cEQXCLn1MRPJ9Z2KxGXKI?authuser=0&hl=en&rclk=1",
+    "storeName": "Blissfully Sweet Aesthetics",
+    "stars": null,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJKeK7LQwioFMRYRbcQzdgyNY",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/The+Beauty+Parlour/data=!4m7!3m6!1s0x53a0220c2dbbe229:0xd6c8603743dc1661!8m2!3d53.5178611!4d-113.4893182!16s%2Fg%2F1thw_3ch!19sChIJKeK7LQwioFMRYRbcQzdgyNY?authuser=0&hl=en&rclk=1",
+    "storeName": "The Beauty Parlour",
+    "ratingText": "4.8 stars 285 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 285
+  },
+  {
+    "placeId": "ChIJY7sLj0Q_sz4R2QJRszd6mnU",
+    "address": "662 Adam Soomar St",
+    "category": "Beauty salon",
+    "phone": "662 Adam Soomar St",
+    "googleUrl": "https://www.google.com/maps/place/A.+Beauty+Saloon/data=!4m7!3m6!1s0x3eb33f448f0bbb63:0x759a7a37b35102d9!8m2!3d24.8829234!4d67.049714!16s%2Fg%2F11rv3w0cgy!19sChIJY7sLj0Q_sz4R2QJRszd6mnU?authuser=0&hl=en&rclk=1",
+    "storeName": "A. Beauty Saloon",
+    "stars": null,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJncoRJ0I7oFMRZdKs4eewS6E",
+    "address": "6120 149 Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Noor%27s+beauty+salon+and+spa/data=!4m7!3m6!1s0x53a03b422711ca9d:0xa14bb0e7e1acd265!8m2!3d53.6111393!4d-113.4371534!16s%2Fg%2F11gggz5m8r!19sChIJncoRJ0I7oFMRZdKs4eewS6E?authuser=0&hl=en&rclk=1",
+    "storeName": "Noor's beauty salon and spa",
+    "ratingText": "4.9 stars 121 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 121
+  },
+  {
+    "placeId": "ChIJUdS-oJwZoFMRAe3rF6jdbdA",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/My+Style+Salon/data=!4m7!3m6!1s0x53a0199ca0bed451:0xd06ddda817ebed01!8m2!3d53.4551351!4d-113.3764983!16s%2Fg%2F11dyqy4s1r!19sChIJUdS-oJwZoFMRAe3rF6jdbdA?authuser=0&hl=en&rclk=1",
+    "storeName": "My Style Salon",
+    "ratingText": "4.5 stars 381 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 381
+  },
+  {
+    "placeId": "ChIJi432gx0ioFMRRZQnwSguKb4",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Dandy+Salon+Spa/data=!4m7!3m6!1s0x53a0221d83f68d8b:0xbe292e28c1279445!8m2!3d53.5183142!4d-113.5182103!16s%2Fg%2F1vvdtxdb!19sChIJi432gx0ioFMRRZQnwSguKb4?authuser=0&hl=en&rclk=1",
+    "storeName": "Dandy Salon Spa",
+    "ratingText": "4.5 stars 290 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 290
+  },
+  {
+    "placeId": "ChIJIdm5HTAioFMR4iQ3hoz0258",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Carrie%27l+Salon+%26+Spa/data=!4m7!3m6!1s0x53a022301db9d921:0x9fdbf48c863724e2!8m2!3d53.5390775!4d-113.5184077!16s%2Fg%2F1tk1mp31!19sChIJIdm5HTAioFMR4iQ3hoz0258?authuser=0&hl=en&rclk=1",
+    "storeName": "Carrie'l Salon & Spa",
+    "ratingText": "4.6 stars 301 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 301
+  },
+  {
+    "placeId": "ChIJ_V1KrVMioFMRbJZcHQawMNI",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Suntrix+Beauty+Salon+LTD/data=!4m7!3m6!1s0x53a02253ad4a5dfd:0xd230b0061d5c966c!8m2!3d53.5528743!4d-113.4877915!16s%2Fg%2F1tnqgn_s!19sChIJ_V1KrVMioFMRbJZcHQawMNI?authuser=0&hl=en&rclk=1",
+    "storeName": "Suntrix Beauty Salon LTD",
+    "ratingText": "4.4 stars 70 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 70
+  },
+  {
+    "placeId": "ChIJhTMj3xIZoFMRwHzoDIgR2lI",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Inn+Style+Salon/data=!4m7!3m6!1s0x53a01912df233385:0x52da11880ce87cc0!8m2!3d53.4623137!4d-113.3931222!16s%2Fg%2F11gxh5zdff!19sChIJhTMj3xIZoFMRwHzoDIgR2lI?authuser=0&hl=en&rclk=1",
+    "storeName": "Inn Style Salon",
+    "ratingText": "4.5 stars 514 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 514
+  },
+  {
+    "placeId": "ChIJmy6ZYAQZoFMRYXxs_EXyfEE",
+    "address": "2917 33A Street Northwest",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Pinky+Salon/data=!4m7!3m6!1s0x53a0190460992e9b:0x417cf245fc6c7c61!8m2!3d53.4602826!4d-113.3907974!16s%2Fg%2F11p0hjgv52!19sChIJmy6ZYAQZoFMRYXxs_EXyfEE?authuser=0&hl=en&rclk=1",
+    "storeName": "Pinky Salon",
+    "ratingText": "5.0 stars 100 Reviews",
+    "stars": 5,
+    "numberOfReviews": 100
+  },
+  {
+    "placeId": "ChIJIT0ObTcioFMRVg3rB5z_hfY",
+    "address": "",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/Style+Beauty+Salon/data=!4m7!3m6!1s0x53a022376d0e3d21:0xf685ff9c07eb0d56!8m2!3d53.54131!4d-113.508119!16s%2Fg%2F1tp1yhcg!19sChIJIT0ObTcioFMRVg3rB5z_hfY?authuser=0&hl=en&rclk=1",
+    "storeName": "Style Beauty Salon",
+    "ratingText": "4.7 stars 95 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 95
+  },
+  {
+    "placeId": "ChIJOdNCJ6OLn1MRNCo1p1jnR3o",
+    "address": "1004 Graham Ct NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Sofia+Salon+%26+Spa/data=!4m7!3m6!1s0x539f8ba32742d339:0x7a47e758a7352a34!8m2!3d53.5069465!4d-113.6670849!16s%2Fg%2F11h35nv9fq!19sChIJOdNCJ6OLn1MRNCo1p1jnR3o?authuser=0&hl=en&rclk=1",
+    "storeName": "Sofia Salon & Spa",
+    "ratingText": "5.0 stars 134 Reviews",
+    "stars": 5,
+    "numberOfReviews": 134
+  },
+  {
+    "placeId": "ChIJnT7IB3gZoFMRqIdB6134odo",
+    "address": "1606 16a St NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/BEAUTYZONE+SALON/data=!4m7!3m6!1s0x53a0197807c83e9d:0xdaa1f85deb4187a8!8m2!3d53.4511498!4d-113.3683117!16s%2Fg%2F11cs46szd0!19sChIJnT7IB3gZoFMRqIdB6134odo?authuser=0&hl=en&rclk=1",
+    "storeName": "BEAUTYZONE SALON",
+    "ratingText": "4.9 stars 104 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 104
+  },
+  {
+    "placeId": "ChIJm7vHHFIioFMRkrhDbw2tVpo",
+    "address": "10565 98 St NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Mina%27s+Hair+%26+Beauty+Salon/data=!4m7!3m6!1s0x53a022521cc7bb9b:0x9a56ad0d6f43b892!8m2!3d53.5498749!4d-113.4897185!16s%2Fg%2F1ts1m9p6!19sChIJm7vHHFIioFMRkrhDbw2tVpo?authuser=0&hl=en&rclk=1",
+    "storeName": "Mina's Hair & Beauty Salon",
+    "ratingText": "4.6 stars 102 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 102
+  },
+  {
+    "placeId": "ChIJJ9QlawcfoFMRtsEPFkOk5PA",
+    "address": "376 Allard Blvd SW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Fusion+Beauty+Studio/data=!4m7!3m6!1s0x53a01f076b25d427:0xf0e4a443160fc1b6!8m2!3d53.3976328!4d-113.5253227!16s%2Fg%2F11np7m_rfw!19sChIJJ9QlawcfoFMRtsEPFkOk5PA?authuser=0&hl=en&rclk=1",
+    "storeName": "Fusion Beauty Studio",
+    "ratingText": "5.0 stars 67 Reviews",
+    "stars": 5,
+    "numberOfReviews": 67
+  },
+  {
+    "placeId": "ChIJxWR3ijgloFMRHtfQ1GhEI7U",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/The+Glam+Room/data=!4m7!3m6!1s0x53a025388a7764c5:0xb5234468d4d0d71e!8m2!3d53.6194443!4d-113.4899837!16s%2Fg%2F11jyl0fxfl!19sChIJxWR3ijgloFMRHtfQ1GhEI7U?authuser=0&hl=en&rclk=1",
+    "storeName": "The Glam Room",
+    "ratingText": "5.0 stars 269 Reviews",
+    "stars": 5,
+    "numberOfReviews": 269
+  },
+  {
+    "placeId": "ChIJfc_RqsYZoFMRT1JzZb7-OS4",
+    "address": "2916 16 Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/RB+Beauty+Salon+%26+Training+Center/data=!4m7!3m6!1s0x53a019c6aad1cf7d:0x2e39febe6573524f!8m2!3d53.4429308!4d-113.3847541!16s%2Fg%2F11f6dtkww7!19sChIJfc_RqsYZoFMRT1JzZb7-OS4?authuser=0&hl=en&rclk=1",
+    "storeName": "RB Beauty Salon & Training Center",
+    "ratingText": "4.8 stars 109 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 109
+  },
+  {
+    "placeId": "ChIJGycaUS8foFMROAlQ7KQcbjg",
+    "address": "10413 51 Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Essence+Esthetics+Salon+and+Spa/data=!4m7!3m6!1s0x53a01f2f511a271b:0x386e1ca4ec500938!8m2!3d53.4873129!4d-113.4982987!16s%2Fg%2F11ppx7p6dp!19sChIJGycaUS8foFMROAlQ7KQcbjg?authuser=0&hl=en&rclk=1",
+    "storeName": "Essence Esthetics Salon and Spa",
+    "ratingText": "4.9 stars 52 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 52
+  },
+  {
+    "placeId": "ChIJ1UTVvXgfoFMRZNIIhJh18SU",
+    "address": "9704 39 Ave NW Unit 118",
+    "category": "Beauty salon",
+    "phone": "9704 39 Ave NW Unit 118",
+    "googleUrl": "https://www.google.com/maps/place/Jaz+Glow+Salon/data=!4m7!3m6!1s0x53a01f78bdd544d5:0x25f175988408d264!8m2!3d53.4745124!4d-113.4813345!16s%2Fg%2F11fncjk4t1!19sChIJ1UTVvXgfoFMRZNIIhJh18SU?authuser=0&hl=en&rclk=1",
+    "storeName": "Jaz Glow Salon",
+    "ratingText": "4.8 stars 45 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 45
+  },
+  {
+    "placeId": "ChIJpYPr6kIZoFMRdqdH-ZRBbbA",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Total+Beauty+Salon+%26+Laser/data=!4m7!3m6!1s0x53a01942eaeb83a5:0xb06d4194f947a776!8m2!3d53.4442325!4d-113.4016886!16s%2Fg%2F1tyzyp5c!19sChIJpYPr6kIZoFMRdqdH-ZRBbbA?authuser=0&hl=en&rclk=1",
+    "storeName": "Total Beauty Salon & Laser",
+    "ratingText": "4.4 stars 85 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 85
+  },
+  {
+    "placeId": "ChIJH2Tyccg8oFMRuXoIAz6LJM4",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Red+Rose+Beauty+Salon+%26+Spa/data=!4m7!3m6!1s0x53a03cc871f2641f:0xce248b3e03087ab9!8m2!3d53.5892327!4d-113.4169465!16s%2Fg%2F1td588_p!19sChIJH2Tyccg8oFMRuXoIAz6LJM4?authuser=0&hl=en&rclk=1",
+    "storeName": "Red Rose Beauty Salon & Spa",
+    "ratingText": "4.5 stars 107 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 107
+  },
+  {
+    "placeId": "ChIJhaXvfLAjoFMR0B5yCY22syQ",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Spasation/data=!4m7!3m6!1s0x53a023b07cefa585:0x24b3b68d09721ed0!8m2!3d53.5622225!4d-113.5049821!16s%2Fg%2F1ydxc8kz6!19sChIJhaXvfLAjoFMR0B5yCY22syQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Spasation",
+    "ratingText": "4.4 stars 310 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 310
+  },
+  {
+    "placeId": "ChIJo4voAigboFMR9qWB4quxymg",
+    "address": "366 Charlesworth Dr SW",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Bellissimo+hair+%26+beauty+salon/data=!4m7!3m6!1s0x53a01b2802e88ba3:0x68cab1abe281a5f6!8m2!3d53.4263689!4d-113.3978158!16s%2Fg%2F11srtlpnpp!19sChIJo4voAigboFMR9qWB4quxymg?authuser=0&hl=en&rclk=1",
+    "storeName": "Bellissimo hair & beauty salon",
+    "ratingText": "5.0 stars 98 Reviews",
+    "stars": 5,
+    "numberOfReviews": 98
+  },
+  {
+    "placeId": "ChIJa9h2Q4kfoFMRlaRWBo0NLoo",
+    "address": "2411 104 St NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Style+n+Smyle+-+Salon+and+Spa/data=!4m7!3m6!1s0x53a01f894376d86b:0x8a2e0d8d0656a495!8m2!3d53.4549786!4d-113.4957247!16s%2Fg%2F11twv1_ydv!19sChIJa9h2Q4kfoFMRlaRWBo0NLoo?authuser=0&hl=en&rclk=1",
+    "storeName": "Style n Smyle - Salon and Spa",
+    "ratingText": "4.8 stars 60 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 60
+  },
+  {
+    "placeId": "ChIJ_V1KrVMioFMRbJZcHQawMNI",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Suntrix+Beauty+Salon+LTD/data=!4m7!3m6!1s0x53a02253ad4a5dfd:0xd230b0061d5c966c!8m2!3d53.5528743!4d-113.4877915!16s%2Fg%2F1tnqgn_s!19sChIJ_V1KrVMioFMRbJZcHQawMNI?authuser=0&hl=en&rclk=1",
+    "storeName": "Suntrix Beauty Salon LTD",
+    "ratingText": "4.4 stars 70 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 70
+  },
+  {
+    "placeId": "ChIJpb3IhzMioFMRzOnEeAzM4H4",
+    "address": "",
+    "category": "Hair salon",
+    "phone": "",
+    "googleUrl": "https://www.google.com/maps/place/Chrome+Spa+Salon/data=!4m7!3m6!1s0x53a0223387c8bda5:0x7ee0cc0c78c4e9cc!8m2!3d53.5468425!4d-113.5159719!16s%2Fg%2F11b64jss_m!19sChIJpb3IhzMioFMRzOnEeAzM4H4?authuser=0&hl=en&rclk=1",
+    "storeName": "Chrome Spa Salon",
+    "ratingText": "4.8 stars 280 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 280
+  },
+  {
+    "placeId": "ChIJTwhSm2KKn1MRAXdqU3aRD_s",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Si+Salon+%26+Spa/data=!4m7!3m6!1s0x539f8a629b52084f:0xfb0f9176536a7701!8m2!3d53.5076689!4d-113.687844!16s%2Fg%2F11cn0sh12_!19sChIJTwhSm2KKn1MRAXdqU3aRD_s?authuser=0&hl=en&rclk=1",
+    "storeName": "Si Salon & Spa",
+    "ratingText": "4.3 stars 135 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 135
+  },
+  {
+    "placeId": "ChIJL5oIKPkjoFMRk3qRzUOQ_Os",
+    "address": "",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/P%C3%9CR+Beauty+Lounge/data=!4m7!3m6!1s0x53a023f928089a2f:0xebfc9043cd917a93!8m2!3d53.5178391!4d-113.4928525!16s%2Fg%2F11j0w3nmhd!19sChIJL5oIKPkjoFMRk3qRzUOQ_Os?authuser=0&hl=en&rclk=1",
+    "storeName": "PÜR Beauty Lounge",
+    "ratingText": "4.7 stars 51 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 51
+  },
+  {
+    "placeId": "ChIJ5VPbBrMZoFMRSLjngBxBAS8",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Angie%27s+Beauty+Parlour/data=!4m7!3m6!1s0x53a019b306db53e5:0x2f01411c80e7b848!8m2!3d53.4762185!4d-113.4912332!16s%2Fg%2F11qr9x3jh5!19sChIJ5VPbBrMZoFMRSLjngBxBAS8?authuser=0&hl=en&rclk=1",
+    "storeName": "Angie's Beauty Parlour",
+    "ratingText": "4.9 stars 70 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 70
+  },
+  {
+    "placeId": "ChIJH2Tyccg8oFMRuXoIAz6LJM4",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Red+Rose+Beauty+Salon+%26+Spa/data=!4m7!3m6!1s0x53a03cc871f2641f:0xce248b3e03087ab9!8m2!3d53.5892327!4d-113.4169465!16s%2Fg%2F1td588_p!19sChIJH2Tyccg8oFMRuXoIAz6LJM4?authuser=0&hl=en&rclk=1",
+    "storeName": "Red Rose Beauty Salon & Spa",
+    "ratingText": "4.5 stars 107 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 107
+  },
+  {
+    "placeId": "ChIJ01zJQTAdoFMRp9azpv_DX9k",
+    "address": "346 Desrochers Blvd SW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Bliss+n+Beauty/data=!4m7!3m6!1s0x53a01d3041c95cd3:0xd95fc3ffa6b3d6a7!8m2!3d53.397562!4d-113.5491038!16s%2Fg%2F11jt08syg4!19sChIJ01zJQTAdoFMRp9azpv_DX9k?authuser=0&hl=en&rclk=1",
+    "storeName": "Bliss n Beauty",
+    "ratingText": "5.0 stars 227 Reviews",
+    "stars": 5,
+    "numberOfReviews": 227
+  },
+  {
+    "placeId": "ChIJm7vHHFIioFMRkrhDbw2tVpo",
+    "address": "10565 98 St NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Mina%27s+Hair+%26+Beauty+Salon/data=!4m7!3m6!1s0x53a022521cc7bb9b:0x9a56ad0d6f43b892!8m2!3d53.5498749!4d-113.4897185!16s%2Fg%2F1ts1m9p6!19sChIJm7vHHFIioFMRkrhDbw2tVpo?authuser=0&hl=en&rclk=1",
+    "storeName": "Mina's Hair & Beauty Salon",
+    "ratingText": "4.6 stars 102 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 102
+  },
+  {
+    "placeId": "ChIJ24etP2UloFMRV2wqklifGuM",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Mon+Cheri+Beauty+and+Nails/data=!4m7!3m6!1s0x53a025653fad87db:0xe31a9f58922a6c57!8m2!3d53.6027892!4d-113.4930886!16s%2Fg%2F11k5mpm2h4!19sChIJ24etP2UloFMRV2wqklifGuM?authuser=0&hl=en&rclk=1",
+    "storeName": "Mon Cheri Beauty and Nails",
+    "ratingText": "5.0 stars 57 Reviews",
+    "stars": 5,
+    "numberOfReviews": 57
+  },
+  {
+    "placeId": "ChIJtQ9QkSYjoFMRncUPv4gORoU",
+    "address": "6411 118 Ave NW",
+    "category": "Beauty salon",
+    "phone": "6411 118 Ave NW",
+    "googleUrl": "https://www.google.com/maps/place/Centre+118+Beauty+Salon/data=!4m7!3m6!1s0x53a0232691500fb5:0x85460e88bf0fc59d!8m2!3d53.5701941!4d-113.4403713!16s%2Fg%2F1tkc1s_j!19sChIJtQ9QkSYjoFMRncUPv4gORoU?authuser=0&hl=en&rclk=1",
+    "storeName": "Centre 118 Beauty Salon",
+    "ratingText": "4.2 stars 44 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 44
+  },
+  {
+    "placeId": "ChIJV5IK51IZoFMRVeU9nEtNztQ",
+    "address": "3214 4th St",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Kiran+beauty+parlour/data=!4m7!3m6!1s0x53a01952e70a9257:0xd4ce4d4b9c3de555!8m2!3d53.4689468!4d-113.3486455!16s%2Fg%2F11y2fljzx9!19sChIJV5IK51IZoFMRVeU9nEtNztQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Kiran beauty parlour",
+    "ratingText": "5.0 stars 31 Reviews",
+    "stars": 5,
+    "numberOfReviews": 31
+  },
+  {
+    "placeId": "ChIJz_-hlDzVeKYROiBFjCDUo8c",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/EDMONTON+SALON+EXPRESS+SERVICES/data=!4m7!3m6!1s0xa678d53c94a1ffcf:0xc7a3d4208c45203a!8m2!3d53.5266805!4d-113.4927372!16s%2Fg%2F11svx5l02v!19sChIJz_-hlDzVeKYROiBFjCDUo8c?authuser=0&hl=en&rclk=1",
+    "storeName": "EDMONTON SALON EXPRESS SERVICES",
+    "ratingText": "5.0 stars 1 Reviews",
+    "stars": 5,
+    "numberOfReviews": 1
+  },
+  {
+    "placeId": "ChIJXwFHDgUhoFMRNm0mNK3ws80",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Illusions+Hair+Salon/data=!4m7!3m6!1s0x53a021050e47015f:0xcdb3f0ad34266d36!8m2!3d53.5415794!4d-113.5999166!16s%2Fg%2F11b5wt3ff8!19sChIJXwFHDgUhoFMRNm0mNK3ws80?authuser=0&hl=en&rclk=1",
+    "storeName": "Illusions Hair Salon",
+    "ratingText": "4.4 stars 67 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 67
+  },
+  {
+    "placeId": "ChIJP4WU_lUYoFMR3luyYFDKOXA",
+    "address": "1492 Jefferys Crescent NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/SS+Beauty+Salon/data=!4m7!3m6!1s0x53a01855fe94853f:0x7039ca5060b25bde!8m2!3d53.4851602!4d-113.4127043!16s%2Fg%2F11dzsy4s_9!19sChIJP4WU_lUYoFMR3luyYFDKOXA?authuser=0&hl=en&rclk=1",
+    "storeName": "SS Beauty Salon",
+    "ratingText": "4.9 stars 8 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 8
+  },
+  {
+    "placeId": "ChIJpXWCjZIZoFMRY4P6odbHOu8",
+    "address": "9190 34a Ave NW unit 112",
+    "category": "Medical spa",
+    "googleUrl": "https://www.google.com/maps/place/Precise+Beauty+Bay/data=!4m7!3m6!1s0x53a019928d8275a5:0xef3ac7d6a1fa8363!8m2!3d53.4677199!4d-113.4716018!16s%2Fg%2F11kqrqbnj0!19sChIJpXWCjZIZoFMRY4P6odbHOu8?authuser=0&hl=en&rclk=1",
+    "storeName": "Precise Beauty Bay",
+    "ratingText": "4.9 stars 64 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 64
+  },
+  {
+    "placeId": "ChIJg2veJOkjoFMRKTdHo35YAM8",
+    "address": "10142 113 St",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Star+Life+Beauty+Salon/data=!4m7!3m6!1s0x53a023e924de6b83:0xcf00587ea3473729!8m2!3d53.541951!4d-113.516298!16s%2Fg%2F11tk9dd8cr!19sChIJg2veJOkjoFMRKTdHo35YAM8?authuser=0&hl=en&rclk=1",
+    "storeName": "Star Life Beauty Salon",
+    "ratingText": "4.9 stars 120 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 120
+  },
+  {
+    "placeId": "ChIJoS-lVcI7oFMRHyNQhysiJAQ",
+    "address": "5038 167 Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Headmaster%E2%80%99s+Salon+and+spa/data=!4m7!3m6!1s0x53a03bc255a52fa1:0x424222b8750231f!8m2!3d53.62927!4d-113.41336!16s%2Fg%2F11s5twy7_j!19sChIJoS-lVcI7oFMRHyNQhysiJAQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Headmaster’s Salon and spa",
+    "ratingText": "4.2 stars 163 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 163
+  },
+  {
+    "placeId": "ChIJwWPWQcg8oFMRfZuOTpE-VLE",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%93%F0%9D%90%91%F0%9D%90%88%F0%9D%90%97+%F0%9D%90%92%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%8D+%26+%F0%9D%90%81%F0%9D%90%80%F0%9D%90%91%F0%9D%90%81%F0%9D%90%84%F0%9D%90%91/data=!4m7!3m6!1s0x53a03cc841d663c1:0xb1543e914e8e9b7d!8m2!3d53.5915145!4d-113.4178485!16s%2Fg%2F11bvt08lp6!19sChIJwWPWQcg8oFMRfZuOTpE-VLE?authuser=0&hl=en&rclk=1",
+    "storeName": "𝐌𝐀𝐓𝐑𝐈𝐗 𝐒𝐀𝐋𝐎𝐍 & 𝐁𝐀𝐑𝐁𝐄𝐑",
+    "ratingText": "4.6 stars 363 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 363
+  },
+  {
+    "placeId": "ChIJydXc8rY8oFMRvFU13EaHECw",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Almaria+Beauty+Salon+and+Spa/data=!4m7!3m6!1s0x53a03cb6f2dcd5c9:0x2c108746dc3555bc!8m2!3d53.5945824!4d-113.4248186!16s%2Fg%2F11fy4hsg6r!19sChIJydXc8rY8oFMRvFU13EaHECw?authuser=0&hl=en&rclk=1",
+    "storeName": "Almaria Beauty Salon and Spa",
+    "ratingText": "4.9 stars 28 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 28
+  },
+  {
+    "placeId": "ChIJcfC6AP8doFMRObSAbBrMs_g",
+    "address": "5013 22 Ave SW",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Annys+Hair+%26+Beauty+Salon/data=!4m7!3m6!1s0x53a01dff00baf071:0xf8b3cc1a6c80b439!8m2!3d53.41367!4d-113.4195599!16s%2Fg%2F11kl6jzlpc!19sChIJcfC6AP8doFMRObSAbBrMs_g?authuser=0&hl=en&rclk=1",
+    "storeName": "Annys Hair & Beauty Salon",
+    "ratingText": "4.8 stars 57 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 57
+  },
+  {
+    "placeId": "ChIJ5WzqEOE7oFMRgOB4IMNHHIw",
+    "address": "137 66 St NW",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/Salon+11/data=!4m7!3m6!1s0x53a03be110ea6ce5:0x8c1c47c32078e080!8m2!3d53.6018271!4d-113.4456422!16s%2Fg%2F11k5fzl6gn!19sChIJ5WzqEOE7oFMRgOB4IMNHHIw?authuser=0&hl=en&rclk=1",
+    "storeName": "Salon 11",
+    "ratingText": "4.9 stars 89 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 89
+  },
+  {
+    "placeId": "ChIJs_mOFDAZoFMRJwg4R1OUZAY",
+    "address": "1408 15 St NW",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/BE+Beauty+Salon+%26+Spa/data=!4m7!3m6!1s0x53a01930148ef9b3:0x664945347380827!8m2!3d53.4496813!4d-113.3655608!16s%2Fg%2F11v0x2b7db!19sChIJs_mOFDAZoFMRJwg4R1OUZAY?authuser=0&hl=en&rclk=1",
+    "storeName": "BE Beauty Salon & Spa",
+    "ratingText": "4.9 stars 29 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 29
+  },
+  {
+    "placeId": "ChIJn5Yup8gjoFMRJjWSlnNGGSM",
+    "address": "8815A 92 St NW",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/Salon+Social/data=!4m7!3m6!1s0x53a023c8a72e969f:0x2319467396923526!8m2!3d53.5239229!4d-113.4679163!16s%2Fg%2F11ff50blvn!19sChIJn5Yup8gjoFMRJjWSlnNGGSM?authuser=0&hl=en&rclk=1",
+    "storeName": "Salon Social",
+    "ratingText": "5.0 stars 225 Reviews",
+    "stars": 5,
+    "numberOfReviews": 225
+  },
+  {
+    "placeId": "ChIJcdCsWXAkoFMRqHYElBpMWiQ",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Lavish+Salon+%26+Massage+for+ladies/data=!4m7!3m6!1s0x53a0247059acd071:0x245a4c1a940476a8!8m2!3d53.6006741!4d-113.5402143!16s%2Fg%2F1tdj3x2d!19sChIJcdCsWXAkoFMRqHYElBpMWiQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Lavish Salon & Massage for ladies",
+    "ratingText": "4.2 stars 200 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 200
+  },
+  {
+    "placeId": "ChIJfc_RqsYZoFMRT1JzZb7-OS4",
+    "address": "2916 16 Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/RB+Beauty+Salon+%26+Training+Center/data=!4m7!3m6!1s0x53a019c6aad1cf7d:0x2e39febe6573524f!8m2!3d53.4429308!4d-113.3847541!16s%2Fg%2F11f6dtkww7!19sChIJfc_RqsYZoFMRT1JzZb7-OS4?authuser=0&hl=en&rclk=1",
+    "storeName": "RB Beauty Salon & Training Center",
+    "ratingText": "4.8 stars 109 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 109
+  },
+  {
+    "placeId": "ChIJLYHbWhojoFMRi2gQmwAthfI",
+    "address": "11722 81 St NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Eleez+Beauty+Salon/data=!4m7!3m6!1s0x53a0231a5adb812d:0xf2852d009b10688b!8m2!3d53.5694579!4d-113.4658512!16s%2Fg%2F11btww41cy!19sChIJLYHbWhojoFMRi2gQmwAthfI?authuser=0&hl=en&rclk=1",
+    "storeName": "Eleez Beauty Salon",
+    "ratingText": "5.0 stars 21 Reviews",
+    "stars": 5,
+    "numberOfReviews": 21
+  },
+  {
+    "placeId": "ChIJ0QzoSygfoFMRywE-fRVAYDo",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/URBAN+STYLE+HAIR+SALON/data=!4m7!3m6!1s0x53a01f284be80cd1:0x3a6040157d3e01cb!8m2!3d53.4671764!4d-113.4873276!16s%2Fg%2F11bbw_njcq!19sChIJ0QzoSygfoFMRywE-fRVAYDo?authuser=0&hl=en&rclk=1",
+    "storeName": "URBAN STYLE HAIR SALON",
+    "ratingText": "4.7 stars 103 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 103
+  },
+  {
+    "placeId": "ChIJ-1rQdUAjoFMRVZGhfRb4ETQ",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Hair+Masters+Salon+%26+Spa+2018/data=!4m7!3m6!1s0x53a0234075d05afb:0x3411f8167da19155!8m2!3d53.5408275!4d-113.4288878!16s%2Fg%2F11grv9fxff!19sChIJ-1rQdUAjoFMRVZGhfRb4ETQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Hair Masters Salon & Spa 2018",
+    "ratingText": "4.5 stars 68 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 68
+  },
+  {
+    "placeId": "ChIJkQttKhsioFMRgCGgIo8nF9o",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Aveda+Avenue+Salons/data=!4m7!3m6!1s0x53a0221b2a6d0b91:0xda17278f22a02180!8m2!3d53.5182745!4d-113.5050268!16s%2Fg%2F1tkb4sz_!19sChIJkQttKhsioFMRgCGgIo8nF9o?authuser=0&hl=en&rclk=1",
+    "storeName": "Aveda Avenue Salons",
+    "ratingText": "4.6 stars 282 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 282
+  },
+  {
+    "placeId": "ChIJ3xqELdMjoFMRzSRV5mWRutU",
+    "address": "10569 111 St NW",
+    "category": "Permanent make-up clinic",
+    "googleUrl": "https://www.google.com/maps/place/Studio+N+Beauty/data=!4m7!3m6!1s0x53a023d32d841adf:0xd5ba9165e65524cd!8m2!3d53.5492189!4d-113.5117478!16s%2Fg%2F11cr_zpvk2!19sChIJ3xqELdMjoFMRzSRV5mWRutU?authuser=0&hl=en&rclk=1",
+    "storeName": "Studio N Beauty",
+    "ratingText": "5.0 stars 207 Reviews",
+    "stars": 5,
+    "numberOfReviews": 207
+  },
+  {
+    "placeId": "ChIJIwKRANAjoFMRd5SQkvaO2rU",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Ivory+Noir+Salon/data=!4m7!3m6!1s0x53a023d000910223:0xb5da8ef692909477!8m2!3d53.5433326!4d-113.5025748!16s%2Fg%2F1hm4g6w30!19sChIJIwKRANAjoFMRd5SQkvaO2rU?authuser=0&hl=en&rclk=1",
+    "storeName": "Ivory Noir Salon",
+    "ratingText": "4.7 stars 113 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 113
+  },
+  {
+    "placeId": "ChIJ60Zj0vIdoFMRco9XFeAyUtY",
+    "address": "80 St SW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/213+Hair+and+Beauty+Salon/data=!4m7!3m6!1s0x53a01df2d26346eb:0xd65232e015578f72!8m2!3d53.4235543!4d-113.4573397!16s%2Fg%2F11hfzynfkd!19sChIJ60Zj0vIdoFMRco9XFeAyUtY?authuser=0&hl=en&rclk=1",
+    "storeName": "213 Hair and Beauty Salon",
+    "ratingText": "5.0 stars 11 Reviews",
+    "stars": 5,
+    "numberOfReviews": 11
+  },
+  {
+    "placeId": "ChIJD4tpLdUfoFMR86mnKglp8RI",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Iron+Salon/data=!4m7!3m6!1s0x53a01fd52d698b0f:0x12f169092aa7a9f3!8m2!3d53.4918691!4d-113.4970203!16s%2Fg%2F11gy1vtp04!19sChIJD4tpLdUfoFMR86mnKglp8RI?authuser=0&hl=en&rclk=1",
+    "storeName": "Iron Salon",
+    "ratingText": "4.7 stars 68 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 68
+  },
+  {
+    "placeId": "ChIJKXGPm8ohoFMRicMUxZypiVo",
+    "address": "",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/shake+hair+salon/data=!4m7!3m6!1s0x53a021ca9b8f7129:0x5a89a99cc514c389!8m2!3d53.5224364!4d-113.6263504!16s%2Fg%2F11s754qbp2!19sChIJKXGPm8ohoFMRicMUxZypiVo?authuser=0&hl=en&rclk=1",
+    "storeName": "shake hair salon",
+    "ratingText": "4.8 stars 559 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 559
+  },
+  {
+    "placeId": "ChIJiRpN56ckoFMRgHZTLimdNl8",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Vanity+Box+Beauty+Salon/data=!4m7!3m6!1s0x53a024a7e74d1a89:0x5f369d292e537680!8m2!3d53.56006!4d-113.6140745!16s%2Fg%2F11byl7lgbt!19sChIJiRpN56ckoFMRgHZTLimdNl8?authuser=0&hl=en&rclk=1",
+    "storeName": "Vanity Box Beauty Salon",
+    "ratingText": "4.6 stars 169 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 169
+  },
+  {
+    "placeId": "ChIJrdViz2A9oFMRxowXgQJhzBY",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Boom+Salon+by+Mario/data=!4m7!3m6!1s0x53a03d60cf62d5ad:0x16cc610281178cc6!8m2!3d53.6152191!4d-113.3958278!16s%2Fg%2F11k9dtttxv!19sChIJrdViz2A9oFMRxowXgQJhzBY?authuser=0&hl=en&rclk=1",
+    "storeName": "Boom Salon by Mario",
+    "ratingText": "5.0 stars 113 Reviews",
+    "stars": 5,
+    "numberOfReviews": 113
+  },
+  {
+    "placeId": "ChIJoQSQVQEioFMRvJN-xnfVdT8",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/LuLu+Hairstylist/data=!4m7!3m6!1s0x53a02201559004a1:0x3f75d577c67e93bc!8m2!3d53.512093!4d-113.5041861!16s%2Fg%2F1tfgjhj6!19sChIJoQSQVQEioFMRvJN-xnfVdT8?authuser=0&hl=en&rclk=1",
+    "storeName": "LuLu Hairstylist",
+    "ratingText": "4.5 stars 185 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 185
+  },
+  {
+    "placeId": "ChIJV9p7izMloFMRLXLpAg64N9Q",
+    "address": "",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/Royal+Hair+%26+Beauty+Salon/data=!4m7!3m6!1s0x53a025338b7bda57:0xd437b80e02e9722d!8m2!3d53.6296653!4d-113.5378036!16s%2Fg%2F11h5rh9wpk!19sChIJV9p7izMloFMRLXLpAg64N9Q?authuser=0&hl=en&rclk=1",
+    "storeName": "Royal Hair & Beauty Salon",
+    "ratingText": "4.9 stars 97 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 97
+  },
+  {
+    "placeId": "ChIJJQf_XC4ioFMRHrPjCACIuOQ",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Timothie+Hill+Hair-Dressing/data=!4m7!3m6!1s0x53a0222e5cff0725:0xe4b8880008e3b31e!8m2!3d53.5384599!4d-113.5190864!16s%2Fg%2F11b7q6vtv5!19sChIJJQf_XC4ioFMRHrPjCACIuOQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Timothie Hill Hair-Dressing",
+    "ratingText": "4.7 stars 59 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 59
+  },
+  {
+    "placeId": "ChIJhWUn5NMboFMRg-FheI1tYGo",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Beauty+Town+Salon+Spa+Laser/data=!4m7!3m6!1s0x53a01bd3e4276585:0x6a606d8d7861e183!8m2!3d53.4234647!4d-113.422501!16s%2Fg%2F11k64hsy3c!19sChIJhWUn5NMboFMRg-FheI1tYGo?authuser=0&hl=en&rclk=1",
+    "storeName": "Beauty Town Salon Spa Laser",
+    "ratingText": "3.9 stars 133 Reviews",
+    "stars": 3.9,
+    "numberOfReviews": 133
+  },
+  {
+    "placeId": "ChIJ9_UBo60ZoFMRuobKHs6RieA",
+    "address": "3315 43 Ave NW",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Care+Hair+%26+Beauty+Salon/data=!4m7!3m6!1s0x53a019ada301f5f7:0xe08991ce1eca86ba!8m2!3d53.4800784!4d-113.3930281!16s%2Fg%2F1tfk4393!19sChIJ9_UBo60ZoFMRuobKHs6RieA?authuser=0&hl=en&rclk=1",
+    "storeName": "Care Hair & Beauty Salon",
+    "ratingText": "4.3 stars 174 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 174
+  },
+  {
+    "placeId": "ChIJ3TYfhtUdoFMRdcE0EPXLmrQ",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Heer+salon+%26+spa/data=!4m7!3m6!1s0x53a01dd5861f36dd:0xb49acbf51034c175!8m2!3d53.3968315!4d-113.529724!16s%2Fg%2F11gtbfl9xk!19sChIJ3TYfhtUdoFMRdcE0EPXLmrQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Heer salon & spa",
+    "ratingText": "4.4 stars 343 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 343
+  },
+  {
+    "placeId": "ChIJmZEsFP0joFMRgozn-sNzvH0",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Sherry%E2%80%99s+Esthetics+Salon/data=!4m7!3m6!1s0x53a023fd142c9199:0x7dbc73c3fae78c82!8m2!3d53.5266805!4d-113.4927372!16s%2Fg%2F11fhvb001b!19sChIJmZEsFP0joFMRgozn-sNzvH0?authuser=0&hl=en&rclk=1",
+    "storeName": "Sherry’s Esthetics Salon",
+    "ratingText": "5.0 stars 6 Reviews",
+    "stars": 5,
+    "numberOfReviews": 6
+  },
+  {
+    "placeId": "ChIJtTH_zM_1n1MReqmPPt_YcF0",
+    "address": "4338 Cooke Ln SW",
+    "category": "Facial spa",
+    "googleUrl": "https://www.google.com/maps/place/Sister%27s+Beauty+Corner/data=!4m7!3m6!1s0x539ff5cfccff31b5:0x5d70d8df3e8fa97a!8m2!3d53.4059488!4d-113.5871996!16s%2Fg%2F11qpzbd676!19sChIJtTH_zM_1n1MReqmPPt_YcF0?authuser=0&hl=en&rclk=1",
+    "storeName": "Sister's Beauty Corner",
+    "ratingText": "5.0 stars 253 Reviews",
+    "stars": 5,
+    "numberOfReviews": 253
+  },
+  {
+    "placeId": "ChIJ6_SVXFcloFMRZT7FLjY8OOQ",
+    "address": "9829 179 Ave NW",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/CH+Salon+Edmonton+AVEDA+salon/data=!4m7!3m6!1s0x53a025575c95f4eb:0xe4383c362ec53e65!8m2!3d53.6411167!4d-113.4941956!16s%2Fg%2F11rhmksgp6!19sChIJ6_SVXFcloFMRZT7FLjY8OOQ?authuser=0&hl=en&rclk=1",
+    "storeName": "CH Salon Edmonton AVEDA salon",
+    "ratingText": "4.7 stars 97 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 97
+  },
+  {
+    "placeId": "ChIJjTqASL8koFMR5ttAZpIFxdI",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/The+One+Salon/data=!4m7!3m6!1s0x53a024bf48803a8d:0xd2c505926640dbe6!8m2!3d53.5991249!4d-113.4934768!16s%2Fg%2F1hc5vc6fj!19sChIJjTqASL8koFMR5ttAZpIFxdI?authuser=0&hl=en&rclk=1",
+    "storeName": "The One Salon",
+    "ratingText": "4.7 stars 253 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 253
+  },
+  {
+    "placeId": "ChIJh74J6VsjoFMR5oCYNd-WYus",
+    "address": "13620 82 St NW",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/OMAGE+HAIR+STUDIO+%26+MEDISPA/data=!4m7!3m6!1s0x53a0235be909be87:0xeb6296df359880e6!8m2!3d53.5990621!4d-113.4679551!16s%2Fg%2F1tgs0m95!19sChIJh74J6VsjoFMR5oCYNd-WYus?authuser=0&hl=en&rclk=1",
+    "storeName": "OMAGE HAIR STUDIO & MEDISPA",
+    "ratingText": "4.7 stars 42 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 42
+  },
+  {
+    "placeId": "ChIJhW4-4LA8oFMRI8b3FPMS150",
+    "address": "",
+    "category": "Medical spa",
+    "googleUrl": "https://www.google.com/maps/place/My+Beauty+Concepts+Spa+%27n%27+Laser+Inc./data=!4m7!3m6!1s0x53a03cb0e03e6e85:0x9dd712f314f7c623!8m2!3d53.5986226!4d-113.4264843!16s%2Fg%2F11dxbcxbsn!19sChIJhW4-4LA8oFMRI8b3FPMS150?authuser=0&hl=en&rclk=1",
+    "storeName": "My Beauty Concepts Spa 'n' Laser Inc.",
+    "ratingText": "4.7 stars 105 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 105
+  },
+  {
+    "placeId": "ChIJd4ubHy8joFMRTBOiwGWB2sM",
+    "address": "10403 122 St NW unit 148",
+    "category": "Nail salon",
+    "googleUrl": "https://www.google.com/maps/place/Salon+WhiteBlue/data=!4m7!3m6!1s0x53a0232f1f9b8b77:0xc3da8165c0a2134c!8m2!3d53.5465617!4d-113.5317274!16s%2Fg%2F11vw_mmdly!19sChIJd4ubHy8joFMRTBOiwGWB2sM?authuser=0&hl=en&rclk=1",
+    "storeName": "Salon WhiteBlue",
+    "ratingText": "4.7 stars 50 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 50
+  },
+  {
+    "placeId": "ChIJPelO-9cZoFMRwnwOe2r85VE",
+    "address": "775 Johns Rd NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Enhance+Beauty+Studio/data=!4m7!3m6!1s0x53a019d7fb4ee93d:0x51e5fc6a7b0e7cc2!8m2!3d53.4808916!4d-113.4064538!16s%2Fg%2F11sdq4_f0r!19sChIJPelO-9cZoFMRwnwOe2r85VE?authuser=0&hl=en&rclk=1",
+    "storeName": "Enhance Beauty Studio",
+    "ratingText": "5.0 stars 41 Reviews",
+    "stars": 5,
+    "numberOfReviews": 41
+  },
+  {
+    "placeId": "ChIJXzM9YUT1n1MRryc0qSn8HZ8",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Upkeep+Salon+And+Spa/data=!4m7!3m6!1s0x539ff544613d335f:0x9f1dfc29a93427af!8m2!3d53.4702762!4d-113.6314356!16s%2Fg%2F11j2lgfnsb!19sChIJXzM9YUT1n1MRryc0qSn8HZ8?authuser=0&hl=en&rclk=1",
+    "storeName": "Upkeep Salon And Spa",
+    "ratingText": "4.8 stars 124 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 124
+  },
+  {
+    "placeId": "ChIJad0R7mEloFMRNzlWU1zJK0g",
+    "address": "",
+    "category": "Eyelash salon",
+    "googleUrl": "https://www.google.com/maps/place/Goddess+Beauty+Bar/data=!4m7!3m6!1s0x53a02561ee11dd69:0x482bc95c53563937!8m2!3d53.6290794!4d-113.4688606!16s%2Fg%2F11qk9g7nb5!19sChIJad0R7mEloFMRNzlWU1zJK0g?authuser=0&hl=en&rclk=1",
+    "storeName": "Goddess Beauty Bar",
+    "ratingText": "5.0 stars 80 Reviews",
+    "stars": 5,
+    "numberOfReviews": 80
+  },
+  {
+    "placeId": "ChIJw2n4qNEjoFMRLGMWULoHyPI",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/The+Privatory/data=!4m7!3m6!1s0x53a023d1a8f869c3:0xf2c807ba5016632c!8m2!3d53.5507347!4d-113.4745956!16s%2Fg%2F11bwnydcbx!19sChIJw2n4qNEjoFMRLGMWULoHyPI?authuser=0&hl=en&rclk=1",
+    "storeName": "The Privatory",
+    "ratingText": "4.8 stars 106 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 106
+  },
+  {
+    "placeId": "ChIJrxLgVmMfoFMRfDGW26oZ8_c",
+    "address": "1534 80a St NW",
+    "category": "Medical spa",
+    "googleUrl": "https://www.google.com/maps/place/Ma-Arteh+Beauty+Studio+and+Medispa/data=!4m7!3m6!1s0x53a01f6356e012af:0xf7f319aadb96317c!8m2!3d53.4475922!4d-113.4545788!16s%2Fg%2F11pyw_zk3d!19sChIJrxLgVmMfoFMRfDGW26oZ8_c?authuser=0&hl=en&rclk=1",
+    "storeName": "Ma-Arteh Beauty Studio and Medispa",
+    "ratingText": "5.0 stars 30 Reviews",
+    "stars": 5,
+    "numberOfReviews": 30
+  },
+  {
+    "placeId": "ChIJ-Waizw0joFMRv-yRpep4GyY",
+    "address": "7718 104 St NW #201a",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Hair+by+Quinn+@Quinntessential+Salon/data=!4m7!3m6!1s0x53a0230dcfa266f9:0x261b78eaa591ecbf!8m2!3d53.5138628!4d-113.4979444!16s%2Fg%2F11jclpp9fv!19sChIJ-Waizw0joFMRv-yRpep4GyY?authuser=0&hl=en&rclk=1",
+    "storeName": "Hair by Quinn @Quinntessential Salon",
+    "ratingText": "4.9 stars 56 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 56
+  },
+  {
+    "placeId": "ChIJnXPbt_wjoFMRG4RVYLy_umA",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Hala+Salon/data=!4m7!3m6!1s0x53a023fcb7db739d:0x60babfbc6055841b!8m2!3d53.6010977!4d-113.5802595!16s%2Fg%2F11h4npz71h!19sChIJnXPbt_wjoFMRG4RVYLy_umA?authuser=0&hl=en&rclk=1",
+    "storeName": "Hala Salon",
+    "ratingText": "5.0 stars 165 Reviews",
+    "stars": 5,
+    "numberOfReviews": 165
+  },
+  {
+    "placeId": "ChIJ84q4FgUioFMRfAAB0vshrTE",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/BRIX+%26+MANES/data=!4m7!3m6!1s0x53a0220516b88af3:0x31ad21fbd201007c!8m2!3d53.5473548!4d-113.530351!16s%2Fg%2F11f28wjppr!19sChIJ84q4FgUioFMRfAAB0vshrTE?authuser=0&hl=en&rclk=1",
+    "storeName": "BRIX & MANES",
+    "ratingText": "5.0 stars 24 Reviews",
+    "stars": 5,
+    "numberOfReviews": 24
+  },
+  {
+    "placeId": "ChIJ2UqHCeQeoFMRMgiZPKNbNLQ",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Volume+Salons/data=!4m7!3m6!1s0x53a01ee409874ad9:0xb4345ba33c990832!8m2!3d53.4534114!4d-113.5097613!16s%2Fg%2F1tdj3x0v!19sChIJ2UqHCeQeoFMRMgiZPKNbNLQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Volume Salons",
+    "ratingText": "4.6 stars 616 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 616
+  },
+  {
+    "placeId": "ChIJG_BsN8UjoFMR5uP7PTtoo04",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Ealiza+Brows+Beauty+Salon+Inc/data=!4m7!3m6!1s0x53a023c5376cf01b:0x4ea3683b3dfbe3e6!8m2!3d53.5605405!4d-113.5540845!16s%2Fg%2F11c1v_yvxy!19sChIJG_BsN8UjoFMR5uP7PTtoo04?authuser=0&hl=en&rclk=1",
+    "storeName": "Ealiza Brows Beauty Salon Inc",
+    "ratingText": "4.9 stars 141 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 141
+  },
+  {
+    "placeId": "ChIJs1-aA_kgoFMRawmud-FPIS8",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Live+to+Dye+Salon+-+West+Central/data=!4m7!3m6!1s0x53a020f9039a5fb3:0x2f214fe177ae096b!8m2!3d53.5408292!4d-113.6126253!16s%2Fg%2F1tlqpp0b!19sChIJs1-aA_kgoFMRawmud-FPIS8?authuser=0&hl=en&rclk=1",
+    "storeName": "Live to Dye Salon - West Central",
+    "ratingText": "4.7 stars 155 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 155
+  },
+  {
+    "placeId": "ChIJ957yLnkioFMRAPhlZIlQYlA",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Evolution+Hair+Salon/data=!4m7!3m6!1s0x53a022792ef29ef7:0x506250896465f800!8m2!3d53.5221031!4d-113.4574336!16s%2Fg%2F1tflrpq4!19sChIJ957yLnkioFMRAPhlZIlQYlA?authuser=0&hl=en&rclk=1",
+    "storeName": "Evolution Hair Salon",
+    "ratingText": "4.3 stars 137 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 137
+  },
+  {
+    "placeId": "ChIJzVC70VsZoFMRJATkMI3rEIk",
+    "address": "1924 22 St NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Samreen+Home+Salon/data=!4m7!3m6!1s0x53a0195bd1bb50cd:0x8910eb8d30e40424!8m2!3d53.4502829!4d-113.375087!16s%2Fg%2F11qrvj0bsf!19sChIJzVC70VsZoFMRJATkMI3rEIk?authuser=0&hl=en&rclk=1",
+    "storeName": "Samreen Home Salon",
+    "ratingText": "5.0 stars 20 Reviews",
+    "stars": 5,
+    "numberOfReviews": 20
+  },
+  {
+    "placeId": "ChIJy2RTm889oFMRYOzQpnMJf2M",
+    "address": "9499 137 Ave NW #1112",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Zamzam+beauty+secret+salon/data=!4m7!3m6!1s0x53a03dcf9b5364cb:0x637f0973a6d0ec60!8m2!3d53.597949!4d-113.489433!16s%2Fg%2F11gwkygxq5!19sChIJy2RTm889oFMRYOzQpnMJf2M?authuser=0&hl=en&rclk=1",
+    "storeName": "Zamzam beauty secret salon",
+    "ratingText": "4.8 stars 17 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 17
+  },
+  {
+    "placeId": "ChIJKZwng1AfoFMRjSlKtovsrRk",
+    "address": "",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/Pink+Ice+Salon/data=!4m7!3m6!1s0x53a01f5083279c29:0x19adec8bb64a298d!8m2!3d53.4960022!4d-113.5176171!16s%2Fg%2F1tmpk5xy!19sChIJKZwng1AfoFMRjSlKtovsrRk?authuser=0&hl=en&rclk=1",
+    "storeName": "Pink Ice Salon",
+    "ratingText": "4.8 stars 53 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 53
+  },
+  {
+    "placeId": "ChIJ9WqFBYwjoFMRhfGdcGDlstY",
+    "address": "13327 117 St NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Monasalon.ca/data=!4m7!3m6!1s0x53a0238c05856af5:0xd6b2e560709df185!8m2!3d53.5940346!4d-113.5230938!16s%2Fg%2F11q3l3gszp!19sChIJ9WqFBYwjoFMRhfGdcGDlstY?authuser=0&hl=en&rclk=1",
+    "storeName": "Monasalon.ca",
+    "ratingText": "4.9 stars 40 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 40
+  },
+  {
+    "placeId": "ChIJq5MycxcjoFMR59APr5IGhaI",
+    "address": "10551 97 St NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/EMona%27s+Beauty+Salon/data=!4m7!3m6!1s0x53a02317733293ab:0xa2850692af0fd0e7!8m2!3d53.5495787!4d-113.4882608!16s%2Fg%2F11q35_zmn0!19sChIJq5MycxcjoFMR59APr5IGhaI?authuser=0&hl=en&rclk=1",
+    "storeName": "EMona's Beauty Salon",
+    "ratingText": "5.0 stars 3 Reviews",
+    "stars": 5,
+    "numberOfReviews": 3
+  },
+  {
+    "placeId": "ChIJo0TlfXMioFMRGIV27coPGGE",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Adara+Hair+%26+Body+Studio/data=!4m7!3m6!1s0x53a022737de544a3:0x61180fcaed768518!8m2!3d53.5183505!4d-113.4683088!16s%2Fg%2F1tql4g61!19sChIJo0TlfXMioFMRGIV27coPGGE?authuser=0&hl=en&rclk=1",
+    "storeName": "Adara Hair & Body Studio",
+    "ratingText": "4.7 stars 222 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 222
+  },
+  {
+    "placeId": "ChIJI_Tw7LK8Y0ERRjg4KMECAN4",
+    "address": "10449 124 St",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Allora+Hair+%26+Esthetics/data=!4m7!3m6!1s0x4163bcb2ecf0f423:0xde0002c128383846!8m2!3d53.5475147!4d-113.5357334!16s%2Fg%2F1q6j6fbxl!19sChIJI_Tw7LK8Y0ERRjg4KMECAN4?authuser=0&hl=en&rclk=1",
+    "storeName": "Allora Hair & Esthetics",
+    "ratingText": "4.7 stars 37 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 37
+  },
+  {
+    "placeId": "ChIJU7Nhh6gmoFMRARuEBoXepMU",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/KoKo+The+Salon/data=!4m7!3m6!1s0x53a026a88761b353:0xc5a4de8506841b01!8m2!3d53.5919837!4d-113.5892563!16s%2Fg%2F12hpvnhb7!19sChIJU7Nhh6gmoFMRARuEBoXepMU?authuser=0&hl=en&rclk=1",
+    "storeName": "KoKo The Salon",
+    "ratingText": "4.4 stars 73 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 73
+  },
+  {
+    "placeId": "ChIJjTprDkYioFMR90p0cgHsUtM",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Headlines+Salon+and+Spa/data=!4m7!3m6!1s0x53a022460e6b3a8d:0xd352ec0172744af7!8m2!3d53.5424569!4d-113.4942954!16s%2Fg%2F1thkrct1!19sChIJjTprDkYioFMR90p0cgHsUtM?authuser=0&hl=en&rclk=1",
+    "storeName": "Headlines Salon and Spa",
+    "ratingText": "4.8 stars 105 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 105
+  },
+  {
+    "placeId": "ChIJL1X7AK8ZoFMRZCEbJGN1aPg",
+    "address": "978 Jordan Crescent NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Glamour+Beauty+Studio/data=!4m7!3m6!1s0x53a019af00fb552f:0xf8687563241b2164!8m2!3d53.4819834!4d-113.4094049!16s%2Fg%2F11lgpr4t8c!19sChIJL1X7AK8ZoFMRZCEbJGN1aPg?authuser=0&hl=en&rclk=1",
+    "storeName": "Glamour Beauty Studio",
+    "ratingText": "5.0 stars 19 Reviews",
+    "stars": 5,
+    "numberOfReviews": 19
+  },
+  {
+    "placeId": "ChIJJd0-BNyF2W4R2tyBNJZOhcA",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/EDMONTON+SALON+EXPRESS+SERVICES/data=!4m7!3m6!1s0x6ed985dc043edd25:0xc0854e963481dcda!8m2!3d53.5266805!4d-113.4927372!16s%2Fg%2F11v15vjrp2!19sChIJJd0-BNyF2W4R2tyBNJZOhcA?authuser=0&hl=en&rclk=1",
+    "storeName": "EDMONTON SALON EXPRESS SERVICES",
+    "stars": null,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJn4QX6CwZoFMRY_EEBvqzLkQ",
+    "address": "8170 50 St NW #125",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/La+Cle%27+Beauty+Salon/data=!4m7!3m6!1s0x53a0192ce817849f:0x442eb3fa0604f163!8m2!3d53.5164234!4d-113.4200151!16s%2Fg%2F11vjpmjh75!19sChIJn4QX6CwZoFMRY_EEBvqzLkQ?authuser=0&hl=en&rclk=1",
+    "storeName": "La Cle' Beauty Salon",
+    "ratingText": "5.0 stars 13 Reviews",
+    "stars": 5,
+    "numberOfReviews": 13
+  },
+  {
+    "placeId": "ChIJg4NxCj8ZoFMRgfAE4v3bbo4",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Adara+Hair+%26+Body+Studio/data=!4m7!3m6!1s0x53a0193f0a718383:0x8e6edbfde204f081!8m2!3d53.4885516!4d-113.4815187!16s%2Fg%2F11j7fbmbnm!19sChIJg4NxCj8ZoFMRgfAE4v3bbo4?authuser=0&hl=en&rclk=1",
+    "storeName": "Adara Hair & Body Studio",
+    "ratingText": "4.7 stars 60 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 60
+  },
+  {
+    "placeId": "ChIJy6Mt9C0hoFMRbKwc3dOEtAA",
+    "address": "11206 76 Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Kiss+n+Joy+Beauty+salon+Spa+Tattoo/data=!4m7!3m6!1s0x53a0212df42da3cb:0xb484d3dd1cac6c!8m2!3d53.5123863!4d-113.5204243!16s%2Fg%2F11sjk46ptj!19sChIJy6Mt9C0hoFMRbKwc3dOEtAA?authuser=0&hl=en&rclk=1",
+    "storeName": "Kiss n Joy Beauty salon Spa Tattoo",
+    "ratingText": "5.0 stars 9 Reviews",
+    "stars": 5,
+    "numberOfReviews": 9
+  },
+  {
+    "placeId": "ChIJCU38SdMZoFMRq-GWhtcC79E",
+    "address": "4605 35 Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Ary+Beauty+Salon/data=!4m7!3m6!1s0x53a019d349fc4d09:0xd1ef02d78696e1ab!8m2!3d53.4647806!4d-113.4114281!16s%2Fg%2F11y4lbp85b!19sChIJCU38SdMZoFMRq-GWhtcC79E?authuser=0&hl=en&rclk=1",
+    "storeName": "Ary Beauty Salon",
+    "ratingText": "5.0 stars 13 Reviews",
+    "stars": 5,
+    "numberOfReviews": 13
+  },
+  {
+    "placeId": "ChIJ79bMpbAhoFMR2jfF3q0S_0E",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/New+Image+Salon+%26+Esthetics/data=!4m7!3m6!1s0x53a021b0a5ccd6ef:0x41ff12addec537da!8m2!3d53.520587!4d-113.5784101!16s%2Fg%2F11c5rv9xj0!19sChIJ79bMpbAhoFMR2jfF3q0S_0E?authuser=0&hl=en&rclk=1",
+    "storeName": "New Image Salon & Esthetics",
+    "ratingText": "4.8 stars 50 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 50
+  },
+  {
+    "placeId": "ChIJ79bMpbAhoFMR2jfF3q0S_0E",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/New+Image+Salon+%26+Esthetics/data=!4m7!3m6!1s0x53a021b0a5ccd6ef:0x41ff12addec537da!8m2!3d53.520587!4d-113.5784101!16s%2Fg%2F11c5rv9xj0!19sChIJ79bMpbAhoFMR2jfF3q0S_0E?authuser=0&hl=en&rclk=1",
+    "storeName": "New Image Salon & Esthetics",
+    "ratingText": "4.8 stars 50 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 50
+  },
+  {
+    "placeId": "ChIJ9-IvPgUioFMRxSmEDfdRB0s",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Fuss+Art+of+Hair/data=!4m7!3m6!1s0x53a022053e2fe2f7:0x4b0751f70d8429c5!8m2!3d53.523245!4d-113.5070203!16s%2Fg%2F1tp0dbt2!19sChIJ9-IvPgUioFMRxSmEDfdRB0s?authuser=0&hl=en&rclk=1",
+    "storeName": "Fuss Art of Hair",
+    "ratingText": "4.7 stars 253 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 253
+  },
+  {
+    "placeId": "ChIJ74eMFJAjoFMRTrbVSY_xv_k",
+    "address": "13020 123a Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Glam+Squared+Beauty+Group/data=!4m7!3m6!1s0x53a02390148c87ef:0xf9bff18f49d5b64e!8m2!3d53.5797913!4d-113.5474553!16s%2Fg%2F11fhn6_v7_!19sChIJ74eMFJAjoFMRTrbVSY_xv_k?authuser=0&hl=en&rclk=1",
+    "storeName": "Glam Squared Beauty Group",
+    "ratingText": "5.0 stars 29 Reviews",
+    "stars": 5,
+    "numberOfReviews": 29
+  },
+  {
+    "placeId": "ChIJ7wpxGmojoFMRDkE3XPji94c",
+    "address": "9608 76 Ave NW",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Dhillon+Beauty+%26+Hair+Salon/data=!4m7!3m6!1s0x53a0236a1a710aef:0x87f7e2f85c37410e!8m2!3d53.5126522!4d-113.4775672!16s%2Fg%2F11mb1h18nz!19sChIJ7wpxGmojoFMRDkE3XPji94c?authuser=0&hl=en&rclk=1",
+    "storeName": "Dhillon Beauty & Hair Salon",
+    "ratingText": "3.4 stars 54 Reviews",
+    "stars": 3.4,
+    "numberOfReviews": 54
+  },
+  {
+    "placeId": "ChIJJVPRf7AjoFMR1cCsxab2Fdc",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Raven+%26+Root+Beauty+Co./data=!4m7!3m6!1s0x53a023b07fd15325:0xd715f6a6c5acc0d5!8m2!3d53.5165516!4d-113.4933226!16s%2Fg%2F11h77lskr3!19sChIJJVPRf7AjoFMR1cCsxab2Fdc?authuser=0&hl=en&rclk=1",
+    "storeName": "Raven & Root Beauty Co.",
+    "ratingText": "4.8 stars 46 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 46
+  },
+  {
+    "placeId": "ChIJpbU20XsZoFMRAW6aovykM24",
+    "address": "9125A 35 Ave NW",
+    "category": "Make-up artist",
+    "googleUrl": "https://www.google.com/maps/place/Reemake+Studio+INC./data=!4m7!3m6!1s0x53a0197bd136b5a5:0x6e33a4fca29a6e01!8m2!3d53.46809!4d-113.4690017!16s%2Fg%2F11fl8fh040!19sChIJpbU20XsZoFMRAW6aovykM24?authuser=0&hl=en&rclk=1",
+    "storeName": "Reemake Studio INC.",
+    "ratingText": "4.9 stars 175 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 175
+  },
+  {
+    "placeId": "ChIJ6RSEebE8oFMR2L_17Q14abQ",
+    "address": "13616 58 St NW",
+    "category": "Hair salon",
+    "phone": "13616 58 St NW",
+    "googleUrl": "https://www.google.com/maps/place/Steele+Heights+Beauty+Salon/data=!4m7!3m6!1s0x53a03cb1798414e9:0xb469780dedf5bfd8!8m2!3d53.5991295!4d-113.43118!16s%2Fg%2F1tjg_0zn!19sChIJ6RSEebE8oFMR2L_17Q14abQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Steele Heights Beauty Salon",
+    "ratingText": "4.6 stars 9 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 9
+  },
+  {
+    "placeId": "ChIJEbyeKB0hoFMRxidUmGF23NA",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Chatters+Hair+Salon/data=!4m7!3m6!1s0x53a0211d289ebc11:0xd0dc7661985427c6!8m2!3d53.5427714!4d-113.6137567!16s%2Fg%2F1q629xwwz!19sChIJEbyeKB0hoFMRxidUmGF23NA?authuser=0&hl=en&rclk=1",
+    "storeName": "Chatters Hair Salon",
+    "ratingText": "4.3 stars 266 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 266
+  },
+  {
+    "placeId": "ChIJaSvBqvojoFMRwEeFoGA0Whc",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/frenchies+hair/data=!4m7!3m6!1s0x53a023faaac12b69:0x175a3460a08547c0!8m2!3d53.5427055!4d-113.5304668!16s%2Fg%2F11hz29ctpg!19sChIJaSvBqvojoFMRwEeFoGA0Whc?authuser=0&hl=en&rclk=1",
+    "storeName": "frenchies hair",
+    "ratingText": "4.9 stars 124 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 124
+  },
+  {
+    "placeId": "ChIJk87E0qYjoFMRsG5RX-W5ys0",
+    "address": "12068 104 Ave NW #201 Unit #24",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/HairbyKrishna/data=!4m7!3m6!1s0x53a023a6d2c4ce93:0xcdcab9e55f516eb0!8m2!3d53.5473545!4d-113.5303444!16s%2Fg%2F11nx1m1wdm!19sChIJk87E0qYjoFMRsG5RX-W5ys0?authuser=0&hl=en&rclk=1",
+    "storeName": "HairbyKrishna",
+    "ratingText": "5.0 stars 20 Reviews",
+    "stars": 5,
+    "numberOfReviews": 20
+  },
+  {
+    "placeId": "ChIJpbRIs9IYoFMRIUHqAxzPWWc",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Victoria+Hair+%26+Beauty/data=!4m7!3m6!1s0x53a018d2b348b4a5:0x6759cf1c03ea4121!8m2!3d53.4762239!4d-113.4799433!16s%2Fg%2F11c510pvqc!19sChIJpbRIs9IYoFMRIUHqAxzPWWc?authuser=0&hl=en&rclk=1",
+    "storeName": "Victoria Hair & Beauty",
+    "ratingText": "4.6 stars 76 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 76
+  },
+  {
+    "placeId": "ChIJDXb_Aj0ZoFMRDoqqAiEMoqo",
+    "address": "",
+    "category": "Beauty supply store",
+    "googleUrl": "https://www.google.com/maps/place/Hair+Palace+Beauty+Supply+%26+Salon/data=!4m7!3m6!1s0x53a0193d02ff760d:0xaaa20c2102aa8a0e!8m2!3d53.4616737!4d-113.4328719!16s%2Fg%2F1tfjf6ht!19sChIJDXb_Aj0ZoFMRDoqqAiEMoqo?authuser=0&hl=en&rclk=1",
+    "storeName": "Hair Palace Beauty Supply & Salon",
+    "ratingText": "4.5 stars 109 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 109
+  },
+  {
+    "placeId": "ChIJ65dGPMU8oFMRYDv4em699a0",
+    "address": "",
+    "category": "Hair salon",
+    "phone": "",
+    "googleUrl": "https://www.google.com/maps/place/Iris+Hair+Salon/data=!4m7!3m6!1s0x53a03cc53c4697eb:0xadf5bd6e7af83b60!8m2!3d53.5852128!4d-113.4066148!16s%2Fg%2F11g8ths94k!19sChIJ65dGPMU8oFMRYDv4em699a0?authuser=0&hl=en&rclk=1",
+    "storeName": "Iris Hair Salon",
+    "ratingText": "4.9 stars 28 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 28
+  },
+  {
+    "placeId": "ChIJDcZ9JzwZoFMRUkXKqefjrPY",
+    "address": "6562 28 Ave NW",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Bolero+Beauty+%26+Hair+Salon/data=!4m7!3m6!1s0x53a0193c277dc60d:0xf6ace3e7a9ca4552!8m2!3d53.4597224!4d-113.433189!16s%2Fg%2F1tp1yhbm!19sChIJDcZ9JzwZoFMRUkXKqefjrPY?authuser=0&hl=en&rclk=1",
+    "storeName": "Bolero Beauty & Hair Salon",
+    "ratingText": "4.4 stars 118 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 118
+  },
+  {
+    "placeId": "ChIJF8C5WRkioFMRpEyKttcdOyU",
+    "address": "",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/M+Hair+Salon/data=!4m7!3m6!1s0x53a0221959b9c017:0x253b1dd7b68a4ca4!8m2!3d53.522266!4d-113.5117072!16s%2Fg%2F11c3k2ymyd!19sChIJF8C5WRkioFMRpEyKttcdOyU?authuser=0&hl=en&rclk=1",
+    "storeName": "M Hair Salon",
+    "ratingText": "4.7 stars 198 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 198
+  },
+  {
+    "placeId": "ChIJwyJXIFIioFMRpX-vgwlLhD4",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/New+Oscar+Beauty+Salon/data=!4m7!3m6!1s0x53a02252205722c3:0x3e844b0983af7fa5!8m2!3d53.5496094!4d-113.4886808!16s%2Fg%2F1tdc09xb!19sChIJwyJXIFIioFMRpX-vgwlLhD4?authuser=0&hl=en&rclk=1",
+    "storeName": "New Oscar Beauty Salon",
+    "ratingText": "4.4 stars 37 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 37
+  },
+  {
+    "placeId": "ChIJ0TdIcnAioFMRFqFdLEcUEwQ",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Exalt%C3%A9+Le+Salon+Ltd/data=!4m7!3m6!1s0x53a02270724837d1:0x41314472c5da116!8m2!3d53.5237359!4d-113.4656014!16s%2Fg%2F1tdp4qtv!19sChIJ0TdIcnAioFMRFqFdLEcUEwQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Exalté Le Salon Ltd",
+    "ratingText": "5.0 stars 22 Reviews",
+    "stars": 5,
+    "numberOfReviews": 22
+  },
+  {
+    "placeId": "ChIJubDdxZIioFMRSDCGbvz3lfg",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Serenity+Hair+%26+Spa/data=!4m7!3m6!1s0x53a02292c5ddb0b9:0xf895f7fc6e863048!8m2!3d53.5414073!4d-113.4424721!16s%2Fg%2F1tdh83ll!19sChIJubDdxZIioFMRSDCGbvz3lfg?authuser=0&hl=en&rclk=1",
+    "storeName": "Serenity Hair & Spa",
+    "ratingText": "4.8 stars 44 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 44
+  },
+  {
+    "placeId": "ChIJ6YASHygfoFMRAlciWy_pL84",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Lindo%27s+Beauty+Parlour/data=!4m7!3m6!1s0x53a01f281f1280e9:0xce2fe92f5b225702!8m2!3d53.463195!4d-113.486684!16s%2Fg%2F11c30pm4gc!19sChIJ6YASHygfoFMRAlciWy_pL84?authuser=0&hl=en&rclk=1",
+    "storeName": "Lindo's Beauty Parlour",
+    "ratingText": "4.5 stars 28 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 28
+  },
+  {
+    "placeId": "ChIJ_cLopFIjoFMRVUzO-FJkGwQ",
+    "address": "11231 Jasper Ave",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Renee+beaute/data=!4m7!3m6!1s0x53a02352a4e8c2fd:0x41b6452f8ce4c55!8m2!3d53.5406796!4d-113.5149282!16s%2Fg%2F11j82ymcmd!19sChIJ_cLopFIjoFMRVUzO-FJkGwQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Renee beaute",
+    "ratingText": "4.9 stars 76 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 76
+  }
+]

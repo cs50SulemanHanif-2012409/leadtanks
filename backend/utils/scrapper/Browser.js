@@ -6,13 +6,13 @@ class Browser {
     page = null;
     url = ''
     async init(headless = false) {
-        this.browser = await puppeteer.launch({ headless : false });
+        this.browser = await puppeteer.launch({ headless: false });
         this.page = await this.browser.newPage();
     }
     getPage() {
         return this.page;
     }
-    async newPage(){
+    async newPage() {
         return await this.browser.newPage();
     }
     getBrowser() {
@@ -21,7 +21,7 @@ class Browser {
     async open(url = null) {
         if (!null) {
             this.url = url;
-            await this.page.goto(url , {timeout: 0});
+            await this.page.goto(url, { timeout: 0 });
             // Set screen size
             await this.page.setViewport({ width: 1080, height: 1024 });
         }
@@ -31,7 +31,9 @@ class Browser {
     }
     async setCookies(json = []) {
         if (json?.length > 0) {
-            await this.page.setCookie(...json)
+            if(this.page){
+                await this.page.setCookie(...json)
+            }
         }
     }
     async getCookies() {
@@ -43,7 +45,7 @@ class Browser {
     async injectJS(exc = () => { }) {
         return await this.page.evaluate(exc, this.page);
     }
-    async getHtml(url){
+    async getHtml(url) {
         let options = {
             method: 'GET',
             headers: {

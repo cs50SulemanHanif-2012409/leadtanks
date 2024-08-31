@@ -8,6 +8,7 @@ const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken')
 const sendMail = require('../utils/mail/mail')
 const FbCountries = require('../model/fbCountries')
+const Order = require('../model/Order')
 
 
 
@@ -112,16 +113,21 @@ class AdminController {
   async getDashboardStatistic(req, res) {
     try {
 
+      const query = {_id:{$ne:null}}
+      const projection = { _id : 1 }
+
       const users = await UserModel.countDocuments();
       const packages = await Package.countDocuments();
-      const leads = await FbUsersModel.countDocuments();
-      const jamalleads = await JamalModel.countDocuments();
+      const leads = await FbUsersModel.find( query , projection ).count()
+      const jamalleads = await JamalModel.find( query , projection ).count()
+      const orders = await Order.countDocuments();
 
       res.json({
         users,
         packages,
         leads,
         jamalleads,
+        orders,
         status: true,
       })
 
@@ -142,6 +148,25 @@ class AdminController {
       })
     } catch (error) {
 
+    }
+  }
+  async getOrders(req, res) {
+    try {
+      const page = Number(req.query.page)
+      const skip = (page - 1 || 0) * 200;
+      const orders = await Order.find({})
+      .populate({ path: "packages", model: Package })
+      .limit(200).skip(skip);
+      return res.json({
+        orders,
+        currentPage: page ?? 1,
+        nextPage: (page + 1) ?? 2
+      })
+    } catch (error) {
+      return res.json({
+        status: false,
+        message: error.message
+      })
     }
   }
 

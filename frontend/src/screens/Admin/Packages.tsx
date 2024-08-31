@@ -1,16 +1,8 @@
 import React from 'react';
 import {
-    Table,
-    Thead,
-    Tbody,
-    Tfoot,
     Tr,
-    Th,
     Td,
-    TableCaption,
-    TableContainer,
     Button,
-    Center,
     Stack, Select, HStack
 } from '@chakra-ui/react'
 import {
@@ -25,7 +17,6 @@ import {
     ModalHeader,
     ModalFooter,
     Text,
-    Heading,
     Textarea,
     ModalBody,
     ModalCloseButton,
@@ -152,7 +143,7 @@ export default function AdminPackages() {
                 }} >
                     <BsPencilSquare />
                 </Button>
-                <Button m={1} p={2} colorScheme='red' onClick={removePackage.bind(null ,p._id)} >
+                <Button m={1} p={2} colorScheme='red' onClick={removePackage.bind(null, p._id)} >
                     <FaTrashAlt />
                 </Button>
             </Td>

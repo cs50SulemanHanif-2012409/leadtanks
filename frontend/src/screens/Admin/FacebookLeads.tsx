@@ -45,7 +45,7 @@ function FBUsersTable() {
     React.useEffect(() => {
         setLoading(true)
         fetchUsers()
-        updateCurrentShow()
+        // updateCurrentShow()
     }, [currentPage, pageSize, selectedCountry]);
 
     React.useEffect(() => {
@@ -60,6 +60,7 @@ function FBUsersTable() {
         try {
             const { data } = await api.get('/admin/fb/users?page=' + currentPage + '&country=' + selectedCountry);
             const { users } = data;
+         
             setUsers(users)
             setCurrentShow(users)
             setLoading(false)
@@ -76,6 +77,7 @@ function FBUsersTable() {
     }
 
     const updateCurrentShow = () => {
+        console.log(users , selectedCountry)
         setCurrentShow(users)
     }
 

@@ -1,0 +1,52 @@
+[
+  {
+    "placeId": "ChIJZcl0UftvcVMR6A8WO6Q4aWA",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Wildhorse+Saloon/data=!4m7!3m6!1s0x53716ffb5174c965:0x606938a43b160fe8!8m2!3d51.0482326!4d-114.0723169!16s%2Fg%2F11fx9bzz9t!19sChIJZcl0UftvcVMR6A8WO6Q4aWA?authuser=0&hl=en&rclk=1",
+    "storeName": "Wildhorse Saloon",
+    "ratingText": "3.9 stars 172 Reviews",
+    "stars": 3.9,
+    "numberOfReviews": 172
+  },
+  {
+    "placeId": "ChIJl5foHmRvcVMRSNBsDVTrQ4s",
+    "address": "330 11 Ave SW",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/National+Saloon/data=!4m7!3m6!1s0x53716f641ee89797:0x8b43eb540d6cd048!8m2!3d51.0427625!4d-114.0701005!16s%2Fg%2F11kq66cbdl!19sChIJl5foHmRvcVMRSNBsDVTrQ4s?authuser=0&hl=en&rclk=1",
+    "storeName": "National Saloon",
+    "ratingText": "5.0 stars 11 Reviews",
+    "stars": 5,
+    "numberOfReviews": 11
+  },
+  {
+    "placeId": "ChIJAXxOcWZxcVMRlfd68DO0o84",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Whiskey+Rose/data=!4m7!3m6!1s0x53717166714e7c01:0xcea3b433f07af795!8m2!3d51.0380869!4d-114.0849675!16s%2Fg%2F11rsvh34cf!19sChIJAXxOcWZxcVMRlfd68DO0o84?authuser=0&hl=en&rclk=1",
+    "storeName": "Whiskey Rose",
+    "ratingText": "4.1 stars 497 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": 497
+  },
+  {
+    "placeId": "ChIJo_ttg_lwcVMRwI-VL8pubAI",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Boudoir+West/data=!4m7!3m6!1s0x537170f9836dfba3:0x26c6eca2f958fc0!8m2!3d50.9995634!4d-114.0707021!16s%2Fg%2F11bbswwxlw!19sChIJo_ttg_lwcVMRwI-VL8pubAI?authuser=0&hl=en&rclk=1",
+    "storeName": "Boudoir West",
+    "ratingText": "3.6 stars 152 Reviews",
+    "stars": 3.6,
+    "numberOfReviews": 152
+  },
+  {
+    "placeId": "ChIJpa1kd01xcVMRSzKiY69SH2Q",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Spanky%27s+Saloon/data=!4m7!3m6!1s0x5371714d7764ada5:0x641f52af63a2324b!8m2!3d51.0432264!4d-114.0671839!16s%2Fg%2F11v07ktzc4!19sChIJpa1kd01xcVMRSzKiY69SH2Q?authuser=0&hl=en&rclk=1",
+    "storeName": "Spanky's Saloon",
+    "ratingText": "3.9 stars 36 Reviews",
+    "stars": 3.9,
+    "numberOfReviews": 36
+  }
+]

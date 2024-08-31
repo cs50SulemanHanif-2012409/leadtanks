@@ -2,14 +2,29 @@ const Browser = require('./Browser')
 const log = require('../logger/index')
 const cheerio = require('cheerio');
 const fs = require('fs/promises')
+const puppeteerExtra = require("puppeteer-extra");
+const stealthPlugin = require("puppeteer-extra-plugin-stealth");
 const jamalModel = require('../../model/JamalCompanies')
-
 
 
 class Scrapper {
     cookies = null;
     constructor(cookie) {
         this.cookies = cookie
+    }
+    async open(query = "#opentowork React Native") {
+        const bw = new Browser();
+        await bw.init(false)
+        log.print('---Browser initialized')
+        log.print('---Setting Cookies')
+        await bw.setCookies(this.cookies)
+        log.print('---Cookies set')
+        await bw.open(`https://www.linkedin.com`)
+
+        log.print("-------------------------------")
+        // await bw.close()
+
+
     }
     async getLinkedinSearch(query = "#opentowork React Native") {
         const bw = new Browser();
@@ -159,7 +174,7 @@ class Scrapper {
         await bw.close();
         return skills
     }
-    async getYelp(desc = 'saloon', loc = 'london') {
+    async getYelp(desc = 'saloon', loc = 'london', io) {
         let skip = 0;
         let end = 10;
         let links = {
@@ -175,23 +190,24 @@ class Scrapper {
                 const url = `https://www.yelp.com/search?find_desc=${desc}&find_loc=${loc}&start=${skip}`
                 await bw.open(url)
                 const temp = await bw.injectJS(function () {
-                        let links = []
-                        const items = document.querySelectorAll('.css-ady4rt');
-                        console.log(items)
-                        for (let i = 0; i < items.length; i++) {
-                            const item = items[i];
-                            links.push({
-                                link: item.querySelectorAll('a')?.[1]?.href,
-                                name: item.querySelectorAll('a')?.[1]?.innerText,
-                            })
-                            console.log(item)
-                        }
-                        const text = document.querySelectorAll('.pagination__09f24__VRjN4 .css-chan6m')[0].innerText;
-                        const end = (Number(text.split(' ')[2]) * 10) - 200
-                        return {
-                            links,
-                            end
-                        };
+                    let links = []
+                    const items = document.querySelectorAll('.y-css-way87j');
+                    for (let i = 0; i < items.length; i++) {
+                        const item = items[i];
+                        links.push({
+                            link: item.querySelectorAll('a')?.[1]?.href,
+                            name: item.querySelectorAll('a')?.[1]?.innerText,
+                            image : item.querySelectorAll('img')[0].src,
+                            about : item.children[0].children[1].children[1].innerText
+                        })
+                        console.log(item)
+                    }
+                    // const text = document.querySelectorAll('.pagination__09f24__VRjN4 .css-chan6m')?.[0].innerText;
+                    const end = 10
+                    return {
+                        links,
+                        end
+                    };
                 })
                 skip += 10;
                 links.links.push(temp.links)
@@ -200,12 +216,12 @@ class Scrapper {
                 log.print(temp.links, 194)
 
             } catch (error) {
-                log.error(error, 197)
+                log.error(error.message, 197)
                 break;
             }
         }
         const totalLinks = [].concat(...links.links)
-        log.print(JSON.stringify(totalLinks))
+        log.print(totalLinks.length)
         let index = 0;
         while (totalLinks.length > index) {
             try {
@@ -213,37 +229,29 @@ class Scrapper {
                 log.print(`Visiting Link :  ${url}`, 209)
                 await bw.open(url)
                 const temp = await bw.injectJS(function () {
-                    const box = document.querySelectorAll('.css-s81j3n')?.[0];
-                    const phList = document.querySelectorAll('p[class=" css-1p9ibgf"]');
-                    // const PhoneNumber = box.querySelectorAll('.css-1p9ibgf')?.[0]?.innerText;
-                    let PhoneNumber = box.querySelectorAll('.css-1p9ibgf')?.[0]?.innerText;
-                    for (let el of phList) {
-                        const element = el.innerText;
-                        const num = element.replace(/[^\d]/g, ''); 
-                        const ph = Number(num);
-                        if(ph){
-                         console.log(element)   
-                         PhoneNumber = element
-                        }
-                    }
-                    const address = box.querySelectorAll('.css-qyp8bo')?.[0]?.innerText;
-                    const about = document.querySelectorAll('.css-1evauet')?.[0]?.innerText;
+                     const container = document.querySelectorAll('.y-css-1b4ss4q')
+                     const bizwebsite = container?.[0].innerText
+                     const phoneNumber = container?.[1].innerText
+                     const address = container?.[2].innerText
+
                     return {
-                        PhoneNumber,
-                        address,
-                        about
-                    }
+                         bizwebsite,
+                         phoneNumber,
+                         address
+                    } 
                 })
                 log.print(temp, 217)
-                totalLinks[index].PhoneNumber = temp.PhoneNumber
-                totalLinks[index].about = temp.about
+                totalLinks[index].phoneNumber = temp.phoneNumber
+                totalLinks[index].website = temp.bizwebsite
                 totalLinks[index].address = temp.address
+                io.emit('yelp-response-chuck', totalLinks[index])
                 index += 1;
             } catch (error) {
                 log.error(error, 227)
-                continue;
+                break;
             }
         }
+        log.print('Scrapping Completed' , totalLinks.length)
         await bw.close()
         return totalLinks
     }
@@ -262,7 +270,7 @@ class Scrapper {
             endPage = Number($(pageLinks[pageLinks.length - 2]).text())
             log.warn(`page = ${page} , End Page : ${endPage}`)
             // Iterate over each listing
-            $('.col-lg-8').each( async (index, element) => {
+            $('.col-lg-8').each(async (index, element) => {
                 const listing = {};
 
                 // Extract the title
@@ -282,19 +290,178 @@ class Scrapper {
                 listing.city = city;
 
                 listing.query = query;
-                
+
                 io.emit('jamal-response-chuck', JSON.stringify(listing))
 
                 await jamalModel.create(listing)
 
                 listings.push(listing);
             });
-           
+
             log.warn(listings.length);
             page += 1;
             fs.writeFile('./utils/json/jamal_loads.json', JSON.stringify(listings), 'utf-8')
         }
         return listings;
+    }
+    async getMaps(query = 'School Newyork') {
+        const buisnesses = [];
+        try {
+            const start = Date.now();
+        
+            puppeteerExtra.use(stealthPlugin());
+        
+            const browser = await puppeteerExtra.launch({
+              headless: false,
+              // headless: "new",
+              // devtools: true,
+              executablePath: "", // your path here
+            });
+        
+            // const browser = await puppeteerExtra.launch({
+            //   args: chromium.args,
+            //   defaultViewport: chromium.defaultViewport,
+            //   executablePath: await chromium.executablePath(),
+            //   headless: "new",
+            //   ignoreHTTPSErrors: true,
+            // });
+            
+            // const cookies = await fs.readFile('cookies.map.json', 'utf-8');
+
+            
+            const page = await browser.newPage();
+            
+            // await page.setCookie(...JSON.parse(cookies));
+
+        
+        
+        
+            try {
+              await page.goto(
+                `https://www.google.com/maps/search/${query.split(" ").join("+")}`
+              );
+            } catch (error) {
+                console.log("error going to page");
+                return []
+            }
+        
+            async function autoScroll(page) {
+              await page.evaluate(async () => {
+                const wrapper = document.querySelector('div[role="feed"]');
+        
+                await new Promise((resolve, reject) => {
+                  var totalHeight = 0;
+                  var distance = 1000;
+                  var scrollDelay = 5000;
+        
+                  var timer = setInterval(async () => {
+                    var scrollHeightBefore = wrapper.scrollHeight;
+                    wrapper.scrollBy(0, distance);
+                    totalHeight += distance;
+        
+                    if (totalHeight >= scrollHeightBefore) {
+                      totalHeight = 0;
+                      await new Promise((resolve) => setTimeout(resolve, scrollDelay));
+        
+                      // Calculate scrollHeight after waiting
+                      var scrollHeightAfter = wrapper.scrollHeight;
+        
+                      if (scrollHeightAfter > scrollHeightBefore) {
+                        // More content loaded, keep scrolling
+                        return;
+                      } else {
+                        // No more content loaded, stop scrolling
+                        clearInterval(timer);
+                        resolve();
+                      }
+                    }
+                  }, 200);
+                });
+              });
+            }
+        
+            await autoScroll(page);
+        
+            const html = await page.content();
+            // const pages = await browser.pages();
+            // await Promise.all(pages.map((page) => page.close()));
+        
+            await browser.close();
+            console.log("browser closed");
+        
+            // get all a tag parent where a tag href includes /maps/place/
+            const $ = cheerio.load(html);
+            const aTags = $("a");
+            const parents = [];
+            aTags.each((i, el) => {
+              const href = $(el).attr("href");
+              if (!href) {
+                return;
+              }
+              if (href.includes("/maps/place/")) {
+                parents.push($(el).parent());
+              }
+            });
+        
+            console.log("parents", parents.length);
+        
+           
+        
+            parents.forEach((parent) => {
+              const url = parent.find("a").attr("href");
+              // get a tag where data-value="Website"
+              const website = parent.find('a[data-value="Website"]').attr("href");
+              // find a div that includes the class fontHeadlineSmall
+              const storeName = parent.find("div.fontHeadlineSmall").text();
+              // find span that includes class fontBodyMedium
+              const ratingText = parent
+                .find("span.fontBodyMedium > span")
+                .attr("aria-label");
+        
+              // get the first div that includes the class fontBodyMedium
+              const bodyDiv = parent.find("div.fontBodyMedium").first();
+              const children = bodyDiv.children();
+              const lastChild = children.last();
+              const firstOfLast = lastChild.children().first();
+              const lastOfLast = lastChild.children().last();
+        
+              buisnesses.push({
+                placeId: `ChI${url?.split("?")?.[0]?.split("ChI")?.[1]}`,
+                address: firstOfLast?.text()?.split("·")?.[1]?.trim(),
+                category: firstOfLast?.text()?.split("·")?.[0]?.trim(),
+                phone: lastOfLast?.text()?.split("·")?.[1]?.trim(),
+                googleUrl: url,
+                bizWebsite: website,
+                storeName,
+                ratingText,
+                stars: ratingText?.split("stars")?.[0]?.trim()
+                  ? Number(ratingText?.split("stars")?.[0]?.trim())
+                  : null,
+                numberOfReviews: ratingText
+                  ?.split("stars")?.[1]
+                  ?.replace("Reviews", "")
+                  ?.trim()
+                  ? Number(
+                      ratingText?.split("stars")?.[1]?.replace("Reviews", "")?.trim()
+                    )
+                  : null,
+              });
+            });
+            const end = Date.now();
+        
+            console.log(`time in seconds ${Math.floor((end - start) / 1000)}`);
+            console.log("buisnesses", buisnesses.length);
+            if(buisnesses.length > 0) {
+                fs.writeFile(
+                    `./utils/json/maps/${query}_${new Date().toDateString()}.json`,
+                    JSON.stringify(buisnesses, null, 2)
+                  );
+            }
+            return buisnesses;
+          } catch (error) {
+              console.log("error at googleMaps", error.message);
+              return buisnesses
+          }
     }
 }
 module.exports = Scrapper

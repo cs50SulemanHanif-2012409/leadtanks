@@ -16,34 +16,47 @@ class PackageController {
     }
     async getPackageData(req, res) {
         try {
-            const page = Number(req.params.page ??  1)
+            const page = Number(req.params.page ?? 1)
             const skip = (page - 1 || 0) * 100;
+
+            const pkg = await Package
+                .findOne({ _id: req.params.id });
+
+            const isAllowedMoreLeadsToView = page <= (pkg.noleads / 100)
+
+            if (!isAllowedMoreLeadsToView) {
+                return res.json({ 
+                    status : false,
+                    message : "You have reached the maximum number of leads that can be viewed for this package"
+                })
+            }
+
             const Lead = await Leads
-            .find({ leadPackageId: req.params.id })
-            .populate({ path: "lead", select : "phoneNumber firstName lastName gender country", model: FbUsers })
-            .limit(100)
-            .skip(skip)
+                .find({ leadPackageId: req.params.id })
+                .populate({ path: "lead", select: "phoneNumber firstName lastName gender country", model: FbUsers })
+                .limit(100)
+                .skip(skip)
             let nextPage = (page + 1) ?? 2;
             if (Lead.length != 100) {
-              nextPage = null;
+                nextPage = null;
             }
             return res.json({
-              lead : Lead,
-              nextPage,
-              currentPage: page ?? 1,
-              totalRecordsRetreived : Lead.length
+                lead: Lead,
+                nextPage,
+                currentPage: page ?? 1,
+                totalRecordsRetreived: Lead.length
             })
         } catch (error) {
             console.log(error)
             res.json({ error: error.message })
         }
     }
-    async getPackage(req , res){
+    async getPackage(req, res) {
         try {
             console.log(req.params.id)
             const pkg = await Package
-            .findOne({ _id : req.params.id });
-            res.json({  status : true , pkg})
+                .findOne({ _id: req.params.id });
+            res.json({ status: true, pkg })
         } catch (error) {
             res.json({ status: false, message: error.message })
         }

@@ -25,6 +25,7 @@ const AuthRoutes = require('./routes/AuthRoutes')
 const AdminRoutes = require('./routes/AdminRoutes')
 const ScrapperRoutes = require('./routes/ScrapperRoutes')(io)
 const PackageRoutes = require('./routes/PackageRoutes')
+const OrderRoutes = require('./routes/OrderRoutes')
 const log = require('./utils/logger/index')
 
 
@@ -53,6 +54,7 @@ app.use('/api/scrapper/search/', ScrapperRoutes)
 app.use('/api/user', AuthRoutes)
 app.use('/api/admin', AdminRoutes)
 app.use('/api/package', PackageRoutes)
+app.use('/api/order', OrderRoutes)
 
 
 
@@ -64,6 +66,10 @@ io.on('connection', (socket) => {
 
 server.listen(PORT, () => { log.print(`Listening on PORT http://localhost:${PORT}`, 24) })
 
+process.on('uncaughtException', function (err) {
+  console.error(err);
+  console.log("Node NOT Exiting...");
+});
 
 
 module.exports = { io }

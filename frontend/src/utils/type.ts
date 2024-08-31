@@ -3,6 +3,7 @@ export type AdminStats  = {
     packages : number,
     leads : number,
     jamalleads : number,
+    orders : number,
     status : boolean
 }
 export type JamalLeads = {

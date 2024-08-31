@@ -7,6 +7,7 @@ import PricingPlan from "../components/Home/PricingPlan";
 import Footer from "../components/Footer";
 import Hero from "../components/Home/Hero";
 import ReactPlayer from 'react-player'
+import { useEffect } from "react";
 
 const NAV_ITEMS = [
 
@@ -29,20 +30,37 @@ const NAV_ITEMS = [
 ]
 export default () => {
 
+
+    useEffect(() => {
+
+        //@ts-ignore
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/669cf32732dca6db2cb306f7/1i3ahblbp';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            //@ts-ignore
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+
+    }, [])
+
     return <Box >
         <Navigation NAV_ITEMS={NAV_ITEMS} icon="./" />
 
 
-        
+
         <Hero />
 
- 
-            <Center p={2} >
-                <Box borderRadius={8}  >
-                    <ReactPlayer light={<img src='./thumbnail_video.png' alt={'LeadTanks Thumbnail'} />} url="./leadtanks_promo.mp4" width={useBreakpointValue({ base: 300, md: 400, lg: 640 })} height={useBreakpointValue({ base: 220, md: 200, lg: 360 })} autoPlay={true} controls={true} />
-                </Box>
-            </Center>
- 
+
+        <Center p={2} >
+            <Box borderRadius={8}  >
+                <ReactPlayer light={<img src='./thumbnail_video.png' alt={'LeadTanks Thumbnail'} />} url="./leadtanks_promo.mp4" width={useBreakpointValue({ base: 300, md: 400, lg: 640 })} height={useBreakpointValue({ base: 220, md: 200, lg: 360 })} autoPlay={true} controls={true} />
+            </Box>
+        </Center>
+
 
 
         <Stack bg={'#f6f5fc'} padding={{ base: 2, lg: 8 }} borderRadius={8} margin={8} >
@@ -120,5 +138,8 @@ And as a result, they continue to suffer and struggle. But that's where you can 
         <Box marginY={10} ></Box>
         <PricingPlan />
         <Footer />
+
+
+
     </Box>
 }

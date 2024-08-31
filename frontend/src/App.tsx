@@ -14,6 +14,7 @@ import SignIn from "./screens/SignIn";
 import Listing from "./screens/Listing";
 import ViewListing from "./screens/View/Listing";
 import Cart from "./screens/Cart";
+import Orders from "./screens/User/Orders";
 
 import AdminHome from "./screens/Admin/Home";
 import AdminUsers from "./screens/Admin/Users";
@@ -29,6 +30,11 @@ import UserHome from "./screens/User/Home";
 import ErrorPage from "./screens/error-page";
 
 import Demo from "./screens/Demo";
+import MyPackages from "./screens/User/MyPackages";
+import ViewPackage from "./screens/User/viewPackage/ViewPackage";
+import AdminOrders from "./screens/Admin/Orders";
+import LeadEngine from "./screens/User/leadengine";
+import ProfileCard from "./screens/User/Profile";
 
 
 const router = createBrowserRouter([
@@ -78,6 +84,10 @@ const router = createBrowserRouter([
     element: <AdminJamalLeads />
   },
   {
+    path: '/admin/orders',
+    element: <AdminOrders />
+  },
+  {
     path: '/admin/scrap/leads/jamalpages',
     element: <AdminCreateJamalLeads />
   },
@@ -92,6 +102,26 @@ const router = createBrowserRouter([
   {
     path: '/dashboard/',
     element: <UserHome />
+  },
+  {
+    path: '/dashboard/profile',
+    element: <ProfileCard />
+  },
+  {
+    path: '/dashboard/orders',
+    element: <Orders />
+  },
+  {
+    path: '/dashboard/packages',
+    element: <MyPackages />
+  },
+  {
+    path: '/dashboard/packages/:id',
+    element: <ViewPackage />
+  },
+  {
+    path: '/dashboard/engine',
+    element: <LeadEngine />
   },
   {
     path: '/demo',

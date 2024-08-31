@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import Footer from '../../components/Footer';
 
 import {
@@ -20,6 +20,7 @@ import {
     List,
     ListItem,
     useToast,
+    Center,
 } from '@chakra-ui/react'
 import { MdLocalShipping } from 'react-icons/md'
 import api from '../../components/fectcher';
@@ -150,6 +151,9 @@ export default function ViewListing() {
                         >
                         Add to cart
                     </Button>
+                    <Center>
+                        <Link to={'/cart'} style={{ textDecoration : 'underline' }} >View Cart</Link> <Text mx={8} >OR</Text> <Link to={'/'} style={{ textDecoration : 'underline' }}  >Back To home</Link>
+                    </Center>
 
                     <Stack direction="row" alignItems="center" justifyContent={'center'}>
                         <MdLocalShipping />

@@ -24,6 +24,7 @@ export default function AdminHome() {
             console.log('Stats LoadCount ', stats)
             const { data } = await api.get('/admin/stats')
             if (data.status) {
+                console.log('Stats LoadCount ', data)
                 setStats(data)
             }
         }
@@ -33,7 +34,7 @@ export default function AdminHome() {
         <HStack padding={2} justify={'center'} flexWrap={{ base: 'wrap' }} >
             <StatCard title='Users' amount={formatNumber(stats.users,0)} colorscheme='purple' icon={<FaUserFriends />} />
             <StatCard title='Packages' amount={formatNumber(stats.packages,0)} colorscheme='green' icon={<FcPackage />} />
-            <StatCard title='Orders' amount={formatNumber(0)} colorscheme='orange' icon={<FcBarChart  />} />
+            <StatCard title='Orders' amount={formatNumber(stats.orders , 0)} colorscheme='orange' icon={<FcBarChart  />} />
         </HStack>
         <HStack padding={2} justify={'center'} flexWrap={{ base: 'wrap' }} >
             <StatCard title='Facebook Leads' amount={formatNumber(stats.leads)} colorscheme='yellow' icon={<FcBullish  />} />

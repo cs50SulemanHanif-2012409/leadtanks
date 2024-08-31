@@ -67,9 +67,9 @@ const LinkItems: Array<LinkItemProps> = [
   { name: 'Users', icon: FiUser, href: '/admin/users' },
   { name: 'Packages', icon: FiTrendingUp, href: '/admin/packages' },
   { name: 'Orders', icon: FiShoppingBag, href: '/admin/orders' },
-  { name: 'Scrapper', icon: FcFilingCabinet, href: '/admin/db/jamal' },
+  { name: 'Jamal', icon: FcFilingCabinet, href: '/admin/db/jamal' },
   { name: 'Facebook', icon: FcFilingCabinet, href: '/admin/db/facebook' },
-  { name: 'Settings', icon: FiSettings, href: '/admin/settings' },
+  { name: 'Lead Engine', icon: FcFilingCabinet, href: '/dashboard/engine' },
 ]
 
 const SidebarContent = ({ onClose, ...rest }: SidebarProps) => {
@@ -180,10 +180,6 @@ const MobileNav = ({ onOpen, ...rest }: MobileProps) => {
             <MenuList
               bg={useColorModeValue('white', 'gray.900')}
               borderColor={useColorModeValue('gray.200', 'gray.700')}>
-              <MenuItem>Profile</MenuItem>
-              <MenuItem>Settings</MenuItem>
-              <MenuItem>Billing</MenuItem>
-              <MenuDivider />
               <MenuItem  onClick={()=>{
                 removeCookie('adminToken','');
                 navigate('/')

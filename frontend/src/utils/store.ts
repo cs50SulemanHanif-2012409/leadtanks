@@ -8,6 +8,7 @@ const useAdminStats = create((set) => ({
         "packages": 0,
         "leads": 0,
         "jamalleads": 0,
+        "orders": 0,
         "status": false
     },
     setStats: (stats : AdminStats) => set(() => ({ stats})),

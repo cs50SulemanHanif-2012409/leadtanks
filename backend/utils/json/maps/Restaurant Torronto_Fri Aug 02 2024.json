@@ -1,0 +1,523 @@
+[
+  {
+    "placeId": "ChIJKSp50NI0K4gR6C6L3yYqpYY",
+    "address": "",
+    "category": "Canadian",
+    "googleUrl": "https://www.google.com/maps/place/Canoe/data=!4m7!3m6!1s0x882b34d2d0792a29:0x86a52a26df8b2ee8!8m2!3d43.6475793!4d-79.3809037!16s%2Fm%2F052lvgt!19sChIJKSp50NI0K4gR6C6L3yYqpYY?authuser=0&hl=en&rclk=1",
+    "storeName": "Canoe",
+    "ratingText": "4.4 stars 3,137 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJJZP2IzPL1IkRoIXM5dEE9ck",
+    "address": "",
+    "category": "Canadian",
+    "googleUrl": "https://www.google.com/maps/place/Richmond+Station/data=!4m7!3m6!1s0x89d4cb3323f69325:0xc9f504d1e5cc85a0!8m2!3d43.6514536!4d-79.3794917!16s%2Fg%2F1hhxpgj5_!19sChIJJZP2IzPL1IkRoIXM5dEE9ck?authuser=0&hl=en&rclk=1",
+    "storeName": "Richmond Station",
+    "ratingText": "4.7 stars 3,068 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJm5_QX940K4gRdtM5bxGf3g4",
+    "address": "",
+    "category": "Italian",
+    "googleUrl": "https://www.google.com/maps/place/Gusto+101/data=!4m7!3m6!1s0x882b34de5fd09f9b:0xede9f116f39d376!8m2!3d43.6451811!4d-79.4001151!16s%2Fg%2F1hc2n8zdk!19sChIJm5_QX940K4gRdtM5bxGf3g4?authuser=0&hl=en&rclk=1",
+    "storeName": "Gusto 101",
+    "ratingText": "4.3 stars 4,579 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJna5xqdE0K4gRY2U5hw6ZXYI",
+    "address": "",
+    "category": "Middle Eastern",
+    "googleUrl": "https://www.google.com/maps/place/Byblos+Downtown/data=!4m7!3m6!1s0x882b34d1a971ae9d:0x825d990e87396563!8m2!3d43.6474863!4d-79.3881964!16s%2Fg%2F1pzv81kg_!19sChIJna5xqdE0K4gRY2U5hw6ZXYI?authuser=0&hl=en&rclk=1",
+    "storeName": "Byblos Downtown",
+    "ratingText": "4.5 stars 3,217 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJryijc9s0K4gRG9aU7SDTXdA",
+    "address": "",
+    "category": "Modern French",
+    "googleUrl": "https://www.google.com/maps/place/Alo/data=!4m7!3m6!1s0x882b34db73a328af:0xd05dd320ed94d61b!8m2!3d43.6484905!4d-79.3959415!16s%2Fg%2F11bvv5c3wy!19sChIJryijc9s0K4gRG9aU7SDTXdA?authuser=0&hl=en&rclk=1",
+    "storeName": "Alo",
+    "ratingText": "4.6 stars 1,871 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ1ZGZKNk0K4gRaouNzuptWV8",
+    "address": "",
+    "category": "Thai",
+    "googleUrl": "https://www.google.com/maps/place/PAI/data=!4m7!3m6!1s0x882b34d9289991d5:0x5f596deace8d8b6a!8m2!3d43.6478528!4d-79.3887403!16s%2Fg%2F11b6dv0rlh!19sChIJ1ZGZKNk0K4gRaouNzuptWV8?authuser=0&hl=en&rclk=1",
+    "storeName": "PAI",
+    "ratingText": "4.6 stars 12,367 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ243-C381K4gRHMKWCGU86iM",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Black+%2B+Blue/data=!4m7!3m6!1s0x882b357f0bfe8ddb:0x23ea3c650896c21c!8m2!3d43.6480996!4d-79.3831247!16s%2Fg%2F11s9wnk_vb!19sChIJ243-C381K4gRHMKWCGU86iM?authuser=0&hl=en&rclk=1",
+    "storeName": "Black + Blue",
+    "ratingText": "4.6 stars 1,318 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJVVXhcts0K4gR9wRXqbtY0rY",
+    "address": "163 Spadina Ave. 1st Floor",
+    "category": "Canadian",
+    "googleUrl": "https://www.google.com/maps/place/Aloette+Restaurant/data=!4m7!3m6!1s0x882b34db72e15555:0xb6d258bba95704f7!8m2!3d43.648548!4d-79.395963!16s%2Fg%2F11fz24my2m!19sChIJVVXhcts0K4gR9wRXqbtY0rY?authuser=0&hl=en&rclk=1",
+    "storeName": "Aloette Restaurant",
+    "ratingText": "4.5 stars 1,628 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJMbvGqzbL1IkRZerolAi13bI",
+    "address": "",
+    "category": "Canadian",
+    "googleUrl": "https://www.google.com/maps/place/GEORGE+Restaurant/data=!4m7!3m6!1s0x89d4cb36abc6bb31:0xb2ddb50894e8ea65!8m2!3d43.6533708!4d-79.3743283!16s%2Fm%2F052lzvy!19sChIJMbvGqzbL1IkRZerolAi13bI?authuser=0&hl=en&rclk=1",
+    "storeName": "GEORGE Restaurant",
+    "ratingText": "4.5 stars 1,085 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJs8v3S9k0K4gRN4P9zGYpo2M",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Baro/data=!4m7!3m6!1s0x882b34d94bf7cbb3:0x63a32966ccfd8337!8m2!3d43.6449356!4d-79.3969934!16s%2Fg%2F11c2mkt_wy!19sChIJs8v3S9k0K4gRN4P9zGYpo2M?authuser=0&hl=en&rclk=1",
+    "storeName": "Baro",
+    "ratingText": "4.3 stars 3,240 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJzUm3X2TL1IkRDkPiZYlOC7U",
+    "address": "",
+    "category": "Italian",
+    "googleUrl": "https://www.google.com/maps/place/Don+Alfonso+1890/data=!4m7!3m6!1s0x89d4cb645fb749cd:0xb50b4e8965e2430e!8m2!3d43.640974!4d-79.375602!16s%2Fg%2F11g0tk0tpb!19sChIJzUm3X2TL1IkRDkPiZYlOC7U?authuser=0&hl=en&rclk=1",
+    "storeName": "Don Alfonso 1890",
+    "ratingText": "4.5 stars 1,166 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJMXUMGqQ0K4gRkTqV8X38KDA",
+    "address": "",
+    "category": "Italian",
+    "googleUrl": "https://www.google.com/maps/place/Ristorante+Sotto+Sotto/data=!4m7!3m6!1s0x882b34a41a0c7531:0x3028fc7df1953a91!8m2!3d43.6736987!4d-79.3964339!16s%2Fg%2F1tfrbthg!19sChIJMXUMGqQ0K4gRkTqV8X38KDA?authuser=0&hl=en&rclk=1",
+    "storeName": "Ristorante Sotto Sotto",
+    "ratingText": "4.3 stars 1,121 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJhUT6s1Y0K4gRqNOxRnUoB8M",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Antler+Kitchen+%26+Bar/data=!4m7!3m6!1s0x882b3456b3fa4485:0xc307287546b1d3a8!8m2!3d43.6497139!4d-79.4305806!16s%2Fg%2F11bwn7y277!19sChIJhUT6s1Y0K4gRqNOxRnUoB8M?authuser=0&hl=en&rclk=1",
+    "storeName": "Antler Kitchen & Bar",
+    "ratingText": "4.8 stars 2,646 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJaz5O-Nk0K4gR-stkvWpJFZU",
+    "address": "",
+    "category": "Japanese",
+    "googleUrl": "https://www.google.com/maps/place/Akira+Back+Restaurant/data=!4m7!3m6!1s0x882b34d9f84e3e6b:0x9515496abd64cbfa!8m2!3d43.6451853!4d-79.392226!16s%2Fg%2F11h9wkf6xx!19sChIJaz5O-Nk0K4gR-stkvWpJFZU?authuser=0&hl=en&rclk=1",
+    "storeName": "Akira Back Restaurant",
+    "ratingText": "4.4 stars 1,384 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJrxCATO8zK4gRHe57JQWul2Q",
+    "address": "",
+    "category": "Modern French",
+    "googleUrl": "https://www.google.com/maps/place/Scaramouche+Restaurant/data=!4m7!3m6!1s0x882b33ef4c8010af:0x6497ae05257bee1d!8m2!3d43.6815007!4d-79.3999041!16s%2Fm%2F052qxj1!19sChIJrxCATO8zK4gRHe57JQWul2Q?authuser=0&hl=en&rclk=1",
+    "storeName": "Scaramouche Restaurant",
+    "ratingText": "4.7 stars 1,426 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJe8kdIzPL1IkR95b8l3Aazt8",
+    "address": "",
+    "category": "Latin American",
+    "googleUrl": "https://www.google.com/maps/place/Le%C3%B1a+Restaurante/data=!4m7!3m6!1s0x89d4cb33231dc97b:0xdfce1a7097fc96f7!8m2!3d43.6517684!4d-79.3791791!16s%2Fg%2F11c1qb8t2p!19sChIJe8kdIzPL1IkR95b8l3Aazt8?authuser=0&hl=en&rclk=1",
+    "storeName": "Leña Restaurante",
+    "ratingText": "4.2 stars 2,743 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJmzR9dJU0K4gRj44f61gBfss",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/RASA/data=!4m7!3m6!1s0x882b3495747d349b:0xcb7e0158eb1f8e8f!8m2!3d43.6628186!4d-79.4041051!16s%2Fg%2F11b5pjqdv7!19sChIJmzR9dJU0K4gRj44f61gBfss?authuser=0&hl=en&rclk=1",
+    "storeName": "RASA",
+    "ratingText": "4.7 stars 1,087 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJWeGuX8o0K4gR0CrzlkI2Z5c",
+    "address": "",
+    "category": "Portuguese",
+    "googleUrl": "https://www.google.com/maps/place/Adega+Restaurante/data=!4m7!3m6!1s0x882b34ca5faee159:0x9767364296f32ad0!8m2!3d43.6574337!4d-79.3832666!16s%2Fm%2F052689l!19sChIJWeGuX8o0K4gR0CrzlkI2Z5c?authuser=0&hl=en&rclk=1",
+    "storeName": "Adega Restaurante",
+    "ratingText": "4.5 stars 733 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 733
+  },
+  {
+    "placeId": "ChIJWcH-2zTL1IkRqB8N3YUw6-I",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/The+Senator/data=!4m7!3m6!1s0x89d4cb34dbfec159:0xe2eb3085dd0d1fa8!8m2!3d43.6557062!4d-79.3791738!16s%2Fg%2F1tql5r_6!19sChIJWcH-2zTL1IkRqB8N3YUw6-I?authuser=0&hl=en&rclk=1",
+    "storeName": "The Senator",
+    "ratingText": "4.3 stars 1,474 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJh6SGZ8I0K4gR47bAdya6pjs",
+    "address": "199 Augusta Ave",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Grey+Gardens/data=!4m7!3m6!1s0x882b34c26786a487:0x3ba6ba2677c0b6e3!8m2!3d43.6538075!4d-79.4014753!16s%2Fg%2F11c6md218z!19sChIJh6SGZ8I0K4gR47bAdya6pjs?authuser=0&hl=en&rclk=1",
+    "storeName": "Grey Gardens",
+    "ratingText": "4.6 stars 869 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 869
+  },
+  {
+    "placeId": "ChIJhUT6s1Y0K4gRqNOxRnUoB8M",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Antler+Kitchen+%26+Bar/data=!4m7!3m6!1s0x882b3456b3fa4485:0xc307287546b1d3a8!8m2!3d43.6497139!4d-79.4305806!16s%2Fg%2F11bwn7y277!19sChIJhUT6s1Y0K4gRqNOxRnUoB8M?authuser=0&hl=en&rclk=1",
+    "storeName": "Antler Kitchen & Bar",
+    "ratingText": "4.8 stars 2,646 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ-QiloMQ0K4gRh8RG0fb9Jt4",
+    "address": "",
+    "category": "Asian",
+    "googleUrl": "https://www.google.com/maps/place/R%26D/data=!4m7!3m6!1s0x882b34c4a0a508f9:0xde26fdf6d146c487!8m2!3d43.6515943!4d-79.3972048!16s%2Fg%2F11b7lbyry0!19sChIJ-QiloMQ0K4gRh8RG0fb9Jt4?authuser=0&hl=en&rclk=1",
+    "storeName": "R&D",
+    "ratingText": "4.4 stars 1,425 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ22FaNyo1K4gRYKnKHwoYftQ",
+    "address": "",
+    "category": "Brewpub",
+    "googleUrl": "https://www.google.com/maps/place/Amsterdam+Brewhouse/data=!4m7!3m6!1s0x882b352a375a61db:0xd47e180a1fcaa960!8m2!3d43.6378763!4d-79.3847269!16s%2Fg%2F12ltcj8bt!19sChIJ22FaNyo1K4gRYKnKHwoYftQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Amsterdam Brewhouse",
+    "ratingText": "4.2 stars 6,935 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ_SEys7U0K4gRvk-B5aDrpmE",
+    "address": "",
+    "category": "Brunch",
+    "googleUrl": "https://www.google.com/maps/place/Fran%27s+Restaurant+and+Bar/data=!4m7!3m6!1s0x882b34b5b33221fd:0x61a6eba0e5814fbe!8m2!3d43.6614536!4d-79.3840553!16s%2Fg%2F1tjfbx4v!19sChIJ_SEys7U0K4gRvk-B5aDrpmE?authuser=0&hl=en&rclk=1",
+    "storeName": "Fran's Restaurant and Bar",
+    "ratingText": "4.2 stars 4,772 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJUWAkGDLL1IkR1k-IbI0kqVM",
+    "address": "",
+    "category": "Italian",
+    "googleUrl": "https://www.google.com/maps/place/Carisma/data=!4m7!3m6!1s0x89d4cb3218246051:0x53a9248d6c884fd6!8m2!3d43.6503233!4d-79.3759151!16s%2Fg%2F1tf71y1x!19sChIJUWAkGDLL1IkR1k-IbI0kqVM?authuser=0&hl=en&rclk=1",
+    "storeName": "Carisma",
+    "ratingText": "4.4 stars 1,121 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJWcH-2zTL1IkRqB8N3YUw6-I",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/The+Senator/data=!4m7!3m6!1s0x89d4cb34dbfec159:0xe2eb3085dd0d1fa8!8m2!3d43.6557062!4d-79.3791738!16s%2Fg%2F1tql5r_6!19sChIJWcH-2zTL1IkRqB8N3YUw6-I?authuser=0&hl=en&rclk=1",
+    "storeName": "The Senator",
+    "ratingText": "4.3 stars 1,474 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJVVXhcts0K4gR9wRXqbtY0rY",
+    "address": "163 Spadina Ave. 1st Floor",
+    "category": "Canadian",
+    "googleUrl": "https://www.google.com/maps/place/Aloette+Restaurant/data=!4m7!3m6!1s0x882b34db72e15555:0xb6d258bba95704f7!8m2!3d43.648548!4d-79.395963!16s%2Fg%2F11fz24my2m!19sChIJVVXhcts0K4gR9wRXqbtY0rY?authuser=0&hl=en&rclk=1",
+    "storeName": "Aloette Restaurant",
+    "ratingText": "4.5 stars 1,628 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJU3vOl-40K4gR9POTxsWYDyc",
+    "address": "503 College St",
+    "category": "Asian",
+    "googleUrl": "https://www.google.com/maps/place/DaiLo/data=!4m7!3m6!1s0x882b34ee97ce7b53:0x270f98c5c693f3f4!8m2!3d43.6558264!4d-79.4098794!16s%2Fg%2F11b5s2fb6f!19sChIJU3vOl-40K4gR9POTxsWYDyc?authuser=0&hl=en&rclk=1",
+    "storeName": "DaiLo",
+    "ratingText": "4.6 stars 1,514 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJSRjpYyQ1K4gRtQa21sER_L0",
+    "address": "",
+    "category": "Restaurant",
+    "phone": "",
+    "googleUrl": "https://www.google.com/maps/place/Salon+Private+Dining/data=!4m7!3m6!1s0x882b352463e91849:0xbdfc11c1d6b606b5!8m2!3d43.6700553!4d-79.393547!16s%2Fg%2F11j8fs1kt0!19sChIJSRjpYyQ1K4gRtQa21sER_L0?authuser=0&hl=en&rclk=1",
+    "storeName": "Salon Private Dining",
+    "ratingText": "4.8 stars 19 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 19
+  },
+  {
+    "placeId": "ChIJ_0mXOc40K4gRJlo64KUzjvk",
+    "address": "",
+    "category": "Vegan",
+    "googleUrl": "https://www.google.com/maps/place/PLANTA+Queen/data=!4m7!3m6!1s0x882b34ce399749ff:0xf98e33a5e03a5a26!8m2!3d43.650626!4d-79.3881032!16s%2Fm%2F052m8fr!19sChIJ_0mXOc40K4gRJlo64KUzjvk?authuser=0&hl=en&rclk=1",
+    "storeName": "PLANTA Queen",
+    "ratingText": "4.5 stars 2,455 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJzUm3X2TL1IkRDkPiZYlOC7U",
+    "address": "",
+    "category": "Italian",
+    "googleUrl": "https://www.google.com/maps/place/Don+Alfonso+1890/data=!4m7!3m6!1s0x89d4cb645fb749cd:0xb50b4e8965e2430e!8m2!3d43.640974!4d-79.375602!16s%2Fg%2F11g0tk0tpb!19sChIJzUm3X2TL1IkRDkPiZYlOC7U?authuser=0&hl=en&rclk=1",
+    "storeName": "Don Alfonso 1890",
+    "ratingText": "4.5 stars 1,166 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ8-dl3uI1K4gRU3PPV9HVoVQ",
+    "address": "",
+    "category": "Japanese",
+    "googleUrl": "https://www.google.com/maps/place/Minami+Toronto/data=!4m7!3m6!1s0x882b35e2de65e7f3:0x54a1d5d157cf7353!8m2!3d43.6466821!4d-79.3881743!16s%2Fg%2F11lq5b7vkr!19sChIJ8-dl3uI1K4gRU3PPV9HVoVQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Minami Toronto",
+    "ratingText": "4.4 stars 926 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 926
+  },
+  {
+    "placeId": "ChIJLxiFpd40K4gRG4xsHBrQhFk",
+    "address": "",
+    "category": "Steak",
+    "googleUrl": "https://www.google.com/maps/place/Jacobs+%26+Co.+Steakhouse/data=!4m7!3m6!1s0x882b34dea585182f:0x5984d01a1c6c8c1b!8m2!3d43.6454047!4d-79.39794!16s%2Fm%2F052m217!19sChIJLxiFpd40K4gRG4xsHBrQhFk?authuser=0&hl=en&rclk=1",
+    "storeName": "Jacobs & Co. Steakhouse",
+    "ratingText": "4.7 stars 2,283 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJBWXbdcA1K4gRbJE4Oxphnas",
+    "address": "90 Portland St",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Vela+Toronto/data=!4m7!3m6!1s0x882b35c075db6505:0xab9d611a3b38916c!8m2!3d43.6448513!4d-79.4004484!16s%2Fg%2F11ss4khsb6!19sChIJBWXbdcA1K4gRbJE4Oxphnas?authuser=0&hl=en&rclk=1",
+    "storeName": "Vela Toronto",
+    "ratingText": "4.5 stars 1,033 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJT1kRzTPL1IkRqYD-w3lcprg",
+    "address": "",
+    "category": "Italian",
+    "googleUrl": "https://www.google.com/maps/place/Terroni/data=!4m7!3m6!1s0x89d4cb33cd11594f:0xb8a65c79c3fe80a9!8m2!3d43.6509246!4d-79.3756963!16s%2Fg%2F1tt1j60p!19sChIJT1kRzTPL1IkRqYD-w3lcprg?authuser=0&hl=en&rclk=1",
+    "storeName": "Terroni",
+    "ratingText": "4.2 stars 6,195 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ_bdoUN40K4gRi4qwMVmMyBw",
+    "address": "",
+    "category": "South East Asian",
+    "googleUrl": "https://www.google.com/maps/place/Lee/data=!4m7!3m6!1s0x882b34de5068b7fd:0x1cc88c5931b08a8b!8m2!3d43.6472135!4d-79.3993497!16s%2Fg%2F1vzv48zv!19sChIJ_bdoUN40K4gRi4qwMVmMyBw?authuser=0&hl=en&rclk=1",
+    "storeName": "Lee",
+    "ratingText": "4.5 stars 2,617 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJx2sC4dM0K4gREJyRW3vdakw",
+    "address": "",
+    "category": "Steak",
+    "googleUrl": "https://www.google.com/maps/place/The+Shore+Club/data=!4m7!3m6!1s0x882b34d3e1026bc7:0x4c6add7b5b919c10!8m2!3d43.645646!4d-79.3866347!16s%2Fg%2F1v_nd3yk!19sChIJx2sC4dM0K4gREJyRW3vdakw?authuser=0&hl=en&rclk=1",
+    "storeName": "The Shore Club",
+    "ratingText": "4.3 stars 1,120 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJOWjDZfk0K4gRWXgticNi7OY",
+    "address": "",
+    "category": "Diner",
+    "googleUrl": "https://www.google.com/maps/place/The+Lakeview+Diner/data=!4m7!3m6!1s0x882b34f965c36839:0xe6ec62c3892d7859!8m2!3d43.6495833!4d-79.4203639!16s%2Fg%2F12xqwdcwt!19sChIJOWjDZfk0K4gRWXgticNi7OY?authuser=0&hl=en&rclk=1",
+    "storeName": "The Lakeview Diner",
+    "ratingText": "4.0 stars 2,760 Reviews",
+    "stars": 4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJs8v3S9k0K4gRN4P9zGYpo2M",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Baro/data=!4m7!3m6!1s0x882b34d94bf7cbb3:0x63a32966ccfd8337!8m2!3d43.6449356!4d-79.3969934!16s%2Fg%2F11c2mkt_wy!19sChIJs8v3S9k0K4gRN4P9zGYpo2M?authuser=0&hl=en&rclk=1",
+    "storeName": "Baro",
+    "ratingText": "4.3 stars 3,240 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJs_Gr4rE0K4gR4PCci36eEkg",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/7+West+Cafe/data=!4m7!3m6!1s0x882b34b1e2abf1b3:0x48129e7e8b9cf0e0!8m2!3d43.6684876!4d-79.386714!16s%2Fg%2F1td3m6rj!19sChIJs_Gr4rE0K4gR4PCci36eEkg?authuser=0&hl=en&rclk=1",
+    "storeName": "7 West Cafe",
+    "ratingText": "4.0 stars 3,002 Reviews",
+    "stars": 4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJW9BCld40K4gRGS8xUsds3-s",
+    "address": "",
+    "category": "Mexican",
+    "googleUrl": "https://www.google.com/maps/place/Wilbur+Mexicana/data=!4m7!3m6!1s0x882b34de9542d05b:0xebdf6cc752312f19!8m2!3d43.6448778!4d-79.398798!16s%2Fg%2F11b6gf9rl1!19sChIJW9BCld40K4gRGS8xUsds3-s?authuser=0&hl=en&rclk=1",
+    "storeName": "Wilbur Mexicana",
+    "ratingText": "4.6 stars 4,267 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJq6oa-K00K4gRNhZ80l3RWpI",
+    "address": "",
+    "category": "Mediterranean",
+    "googleUrl": "https://www.google.com/maps/place/Constantine+Toronto/data=!4m7!3m6!1s0x882b34adf81aaaab:0x925ad15dd27c1636!8m2!3d43.6686542!4d-79.3853935!16s%2Fg%2F11f5dbv3pp!19sChIJq6oa-K00K4gRNhZ80l3RWpI?authuser=0&hl=en&rclk=1",
+    "storeName": "Constantine Toronto",
+    "ratingText": "4.2 stars 751 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 751
+  },
+  {
+    "placeId": "ChIJDQe13aQ0K4gRbEgW8SUwSSM",
+    "address": "",
+    "category": "Steak",
+    "googleUrl": "https://www.google.com/maps/place/STK+Steakhouse/data=!4m7!3m6!1s0x882b34a4ddb5070d:0x23493025f116486c!8m2!3d43.6702919!4d-79.3943786!16s%2Fg%2F11c1rfq_d7!19sChIJDQe13aQ0K4gRbEgW8SUwSSM?authuser=0&hl=en&rclk=1",
+    "storeName": "STK Steakhouse",
+    "ratingText": "4.1 stars 2,760 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJw4YZdbrL1IkRqqzP0ul-aa8",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Gusto+501/data=!4m7!3m6!1s0x89d4cbba751986c3:0xaf697ee9d2cfacaa!8m2!3d43.6546913!4d-79.3595502!16s%2Fg%2F11j7d8c0mz!19sChIJw4YZdbrL1IkRqqzP0ul-aa8?authuser=0&hl=en&rclk=1",
+    "storeName": "Gusto 501",
+    "ratingText": "4.4 stars 1,065 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJJWqQJPc0K4gR8cIF0ZNyuQc",
+    "address": "",
+    "category": "Spanish",
+    "googleUrl": "https://www.google.com/maps/place/Bar+Isabel/data=!4m7!3m6!1s0x882b34f724906a25:0x7b97293d105c2f1!8m2!3d43.654607!4d-79.42077!16s%2Fg%2F12q4ss00r!19sChIJJWqQJPc0K4gR8cIF0ZNyuQc?authuser=0&hl=en&rclk=1",
+    "storeName": "Bar Isabel",
+    "ratingText": "4.5 stars 2,377 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ5zebO-82K4gRHCVHoe5DWR0",
+    "address": "2867A Dundas St W",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/The+Hole+In+The+Wall+T.O./data=!4m7!3m6!1s0x882b36ef3b9b37e7:0x1d5943eea147251c!8m2!3d43.665182!4d-79.4651265!16s%2Fg%2F1ygvstd7b!19sChIJ5zebO-82K4gRHCVHoe5DWR0?authuser=0&hl=en&rclk=1",
+    "storeName": "The Hole In The Wall T.O.",
+    "ratingText": "4.6 stars 1,350 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJc7b06800K4gR3HnGJ5UFYxw",
+    "address": "133 Richmond St W",
+    "category": "Greek",
+    "googleUrl": "https://www.google.com/maps/place/Volos+Greek+Cuisine/data=!4m7!3m6!1s0x882b34cdebf4b673:0x1c63059527c679dc!8m2!3d43.6503132!4d-79.3847095!16s%2Fg%2F1vm_yj2t!19sChIJc7b06800K4gR3HnGJ5UFYxw?authuser=0&hl=en&rclk=1",
+    "storeName": "Volos Greek Cuisine",
+    "ratingText": "4.5 stars 1,179 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJUx_qlkXL1IkR34Au0XdaP08",
+    "address": "",
+    "category": "Gastropub",
+    "googleUrl": "https://www.google.com/maps/place/House+on+Parliament/data=!4m7!3m6!1s0x89d4cb4596ea1f53:0x4f3f5a77d12e80df!8m2!3d43.6635!4d-79.3679717!16s%2Fg%2F1v9t_x3v!19sChIJUx_qlkXL1IkR34Au0XdaP08?authuser=0&hl=en&rclk=1",
+    "storeName": "House on Parliament",
+    "ratingText": "4.6 stars 2,517 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJFVWjfdo0K4gR5NTEIxMRmIk",
+    "address": "326 Adelaide St W",
+    "category": "Thai",
+    "googleUrl": "https://www.google.com/maps/place/Kiin/data=!4m7!3m6!1s0x882b34da7da35515:0x8998111323c4d4e4!8m2!3d43.6476191!4d-79.392133!16s%2Fg%2F11b_01ytyl!19sChIJFVWjfdo0K4gR5NTEIxMRmIk?authuser=0&hl=en&rclk=1",
+    "storeName": "Kiin",
+    "ratingText": "4.5 stars 933 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 933
+  },
+  {
+    "placeId": "ChIJfczpedI0K4gRee_JJo7RzaQ",
+    "address": "",
+    "category": "Steak",
+    "googleUrl": "https://www.google.com/maps/place/Hy%27s+Steakhouse+%26+Cocktail+Bar/data=!4m7!3m6!1s0x882b34d279e9cc7d:0xa4cdd18e26c9ef79!8m2!3d43.6510487!4d-79.3808502!16s%2Fm%2F052m1th!19sChIJfczpedI0K4gRee_JJo7RzaQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Hy's Steakhouse & Cocktail Bar",
+    "ratingText": "4.5 stars 2,027 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ7ZeFXso0K4gRqGxxcej0DjY",
+    "address": "",
+    "category": "Italian",
+    "googleUrl": "https://www.google.com/maps/place/Donatello+Restaurant/data=!4m7!3m6!1s0x882b34ca5e8597ed:0x360ef4e871716ca8!8m2!3d43.6573753!4d-79.383461!16s%2Fg%2F1tghq6jr!19sChIJ7ZeFXso0K4gRqGxxcej0DjY?authuser=0&hl=en&rclk=1",
+    "storeName": "Donatello Restaurant",
+    "ratingText": "4.3 stars 1,387 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJvwizah81K4gRiH3gulPWMK8",
+    "address": "98 Portland St",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/SARA/data=!4m7!3m6!1s0x882b351f6ab308bf:0xaf30d653bae07d88!8m2!3d43.6452005!4d-79.4006612!16s%2Fg%2F11fd4nl1gq!19sChIJvwizah81K4gRiH3gulPWMK8?authuser=0&hl=en&rclk=1",
+    "storeName": "SARA",
+    "ratingText": "4.6 stars 588 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 588
+  }
+]

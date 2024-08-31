@@ -10,20 +10,45 @@ import {
   Stack,
   Button,
   useColorModeValue,
-  useToast
+  useToast,
+  Text,
+  Center
 } from '@chakra-ui/react'
 import { useState, useEffect } from 'react'
 import api from '../../components/fectcher'
 import { useCookies } from "react-cookie";
 import { useNavigate } from 'react-router-dom';
+import Footer from '../../components/Footer';
+import Navigation from '../../components/navbar';
 
+
+const NAV_ITEMS = [
+
+  {
+    label: 'Home',
+    href: '../',
+  },
+  {
+    label: 'Pricing',
+    href: '../#pricing',
+  },
+  {
+    label: 'Packages',
+    href: '../listing/search',
+  },
+  {
+    label: 'Cart',
+    href: '../cart',
+  },
+]
 
 
 export default function ProfileCard() {
   const [me, setMe] = useState({
     firstName: '',
     lastName: '',
-    email: ''
+    email: '',
+    phoneNumber: '',
   })
   const [cookies, removeCookie] = useCookies();
   const navigate = useNavigate();
@@ -38,6 +63,7 @@ export default function ProfileCard() {
       const { data } = await api.get('/user/me')
       const { status, user, message } = data;
       if (status) {
+        console.log(user)
         setMe(user)
       } else {
         console.log(status, message)
@@ -64,11 +90,15 @@ export default function ProfileCard() {
       showMessage('Invalid Field', 'Last Name minimum requirement 4 length', 'warning')
       return;
     }
-    const { data } = await api.put('/user/update', { firstName: me.firstName, lastName: me.lastName });
+    if (me.phoneNumber.length == 0 || me.phoneNumber.length < 4) {
+      showMessage('Invalid Field', 'Phone Number is Too Short', 'warning')
+      return;
+    }
+    const { data } = await api.put('/user/update', { firstName: me.firstName, lastName: me.lastName, phoneNumber: me.phoneNumber });
     if (data.status) {
       showMessage('Updated', 'Profile Info Updated', 'success')
     } else {
-      showMessage('Update Failed', data.message , 'success')
+      showMessage('Update Failed', data.message, 'success')
     }
 
   }
@@ -85,9 +115,17 @@ export default function ProfileCard() {
 
   return (
     <Flex
-      align={'center'}
-      justify={'center'}>
-      <Stack spacing={4} mx={'auto'} maxW={'lg'} >
+
+      justify={'center'}
+      minH={'100vh'}
+      flexDir={"column"}
+    >
+      <Navigation NAV_ITEMS={NAV_ITEMS} icon='../' />
+      <Stack spacing={4} mt={20} mx={'auto'} maxW={'lg'} height={'80vh'} justify={'center'}  >
+        <Center>
+
+          <Text fontSize={'3xl'}  >Edit Profile</Text>
+        </Center>
 
         <Box
           rounded={'lg'}
@@ -114,7 +152,16 @@ export default function ProfileCard() {
               <FormLabel>Email address</FormLabel>
               <Input type="email" value={me.email} name='email' onChange={onChange} readOnly />
             </FormControl>
-            <Stack spacing={10} pt={2}>
+            <FormControl id="phone" isRequired>
+              <FormLabel>Phone Number</FormLabel>
+              <Input type="number" value={me.phoneNumber} name='phoneNumber' onChange={onChange} />
+            </FormControl>
+            <HStack spacing={10} pt={2}>
+              <Button
+                onClick={() => window.history.back()}
+              >
+                Back
+              </Button>
               <Button
                 loadingText="Submitting"
                 size="lg"
@@ -127,10 +174,11 @@ export default function ProfileCard() {
               >
                 Update
               </Button>
-            </Stack>
+            </HStack>
           </Stack>
         </Box>
       </Stack>
+      <Footer />
     </Flex>
   )
 }

@@ -1,0 +1,905 @@
+[
+  {
+    "placeId": "ChIJb297glhzhlQRw_vI_-KvW5A",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/The+Living+Room/data=!4m7!3m6!1s0x54867358827b6f6f:0x905bafe2ffc8fbc3!8m2!3d49.27908!4d-123.1229981!16s%2Fg%2F11h1m5hv2d!19sChIJb297glhzhlQRw_vI_-KvW5A?authuser=0&hl=en&rclk=1",
+    "storeName": "The Living Room",
+    "ratingText": "4.2 stars 286 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 286
+  },
+  {
+    "placeId": "ChIJ18-j2oJxhlQRnsW7wcnQG1E",
+    "category": "5-star hotel",
+    "googleUrl": "https://www.google.com/maps/place/Pan+Pacific+Vancouver/data=!4m10!3m9!1s0x54867182daa3cfd7:0x511bd0c9c1bbc59e!5m2!4m1!1i2!8m2!3d49.2878274!4d-123.1134453!16s%2Fm%2F0c1pbw1!19sChIJ18-j2oJxhlQRnsW7wcnQG1E?authuser=0&hl=en&rclk=1",
+    "storeName": "Pan Pacific VancouverPKR 160K",
+    "ratingText": "4.4 stars 4,493 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJM_hP5dNzhlQReJN7YYnCxis",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/The+Yale+Saloon/data=!4m7!3m6!1s0x548673d3e54ff833:0x2bc6c289617b9378!8m2!3d49.2758151!4d-123.1276514!16s%2Fg%2F1vg_6_83!19sChIJM_hP5dNzhlQReJN7YYnCxis?authuser=0&hl=en&rclk=1",
+    "storeName": "The Yale Saloon",
+    "ratingText": "3.8 stars 743 Reviews",
+    "stars": 3.8,
+    "numberOfReviews": 743
+  },
+  {
+    "placeId": "ChIJVSZOnH1xhlQRIXAGmUWtalw",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/The+Mayer+Salon88/data=!4m7!3m6!1s0x5486717d9c4e2655:0x5c6aad4599067021!8m2!3d49.2761461!4d-123.1152921!16s%2Fg%2F1tfsbjl1!19sChIJVSZOnH1xhlQRIXAGmUWtalw?authuser=0&hl=en&rclk=1",
+    "storeName": "The Mayer Salon88",
+    "ratingText": "4.9 stars 797 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 797
+  },
+  {
+    "placeId": "ChIJW3ct4nhxhlQR7Qhf_55vlEc",
+    "address": "",
+    "category": "Hairdresser",
+    "googleUrl": "https://www.google.com/maps/place/Bangtown+Hair+Saloon/data=!4m7!3m6!1s0x54867178e22d775b:0x47946f9eff5f08ed!8m2!3d49.2727669!4d-123.0694169!16s%2Fg%2F1tfsh2l9!19sChIJW3ct4nhxhlQR7Qhf_55vlEc?authuser=0&hl=en&rclk=1",
+    "storeName": "Bangtown Hair Saloon",
+    "ratingText": "4.6 stars 403 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 403
+  },
+  {
+    "placeId": "ChIJN9NIHu6ulVQR47ez9zzVJNc",
+    "address": "",
+    "category": "Grill",
+    "googleUrl": "https://www.google.com/maps/place/99+Saloon+%26+Grill/data=!4m7!3m6!1s0x5495aeee1e48d337:0xd724d53cf7b3b7e3!8m2!3d45.67358!4d-122.662523!16s%2Fg%2F1tdwvdl3!19sChIJN9NIHu6ulVQR47ez9zzVJNc?authuser=0&hl=en&rclk=1",
+    "storeName": "99 Saloon & Grill",
+    "ratingText": "4.2 stars 980 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 980
+  },
+  {
+    "placeId": "ChIJKwAwYX9xhlQR_VvWL0RBPBI",
+    "address": "",
+    "category": "Cocktail bar",
+    "googleUrl": "https://www.google.com/maps/place/1927+Lounge+at+Rosewood+Hotel+Georgia/data=!4m7!3m6!1s0x5486717f6130002b:0x123c41442fd65bfd!8m2!3d49.283534!4d-123.1187414!16s%2Fg%2F11f4pf6pxn!19sChIJKwAwYX9xhlQR_VvWL0RBPBI?authuser=0&hl=en&rclk=1",
+    "storeName": "1927 Lounge at Rosewood Hotel Georgia",
+    "ratingText": "4.6 stars 220 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 220
+  },
+  {
+    "placeId": "ChIJW-fI3oNxhlQR6hpaPLkbUkI",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/THE+Salon+Beauty+Bar/data=!4m7!3m6!1s0x54867183dec8e75b:0x42521bb93c5a1aea!8m2!3d49.2873987!4d-123.1208442!16s%2Fg%2F1tnqgp93!19sChIJW-fI3oNxhlQR6hpaPLkbUkI?authuser=0&hl=en&rclk=1",
+    "storeName": "THE Salon Beauty Bar",
+    "ratingText": "4.6 stars 182 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 182
+  },
+  {
+    "placeId": "ChIJ0a9U8HlxhlQR-DXhvPSC25E",
+    "address": "",
+    "category": "Pub",
+    "googleUrl": "https://www.google.com/maps/place/The+Metropole+Community+Pub/data=!4m7!3m6!1s0x54867179f054afd1:0x91db82f4bce135f8!8m2!3d49.2825596!4d-123.1068194!16s%2Fg%2F1td3l8rl!19sChIJ0a9U8HlxhlQR-DXhvPSC25E?authuser=0&hl=en&rclk=1",
+    "storeName": "The Metropole Community Pub",
+    "ratingText": "4.0 stars 774 Reviews",
+    "stars": 4,
+    "numberOfReviews": 774
+  },
+  {
+    "placeId": "ChIJqZzLzeFzhlQRUYjXCrGCEQU",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Speakeasy+Salon/data=!4m7!3m6!1s0x548673e1cdcb9ca9:0x51182b10ad78851!8m2!3d49.263537!4d-123.1016439!16s%2Fg%2F11dyw471bp!19sChIJqZzLzeFzhlQRUYjXCrGCEQU?authuser=0&hl=en&rclk=1",
+    "storeName": "Speakeasy Salon",
+    "ratingText": "4.4 stars 16 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 16
+  },
+  {
+    "placeId": "ChIJ7Qwl2KJxhlQRpDgWaaZoHXI",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/thom.+-+Men%E2%80%99s+Salon+%2F+Barbershop/data=!4m7!3m6!1s0x548671a2d8250ced:0x721d68a6691638a4!8m2!3d49.2807403!4d-123.1045873!16s%2Fg%2F11h4gpmtb5!19sChIJ7Qwl2KJxhlQRpDgWaaZoHXI?authuser=0&hl=en&rclk=1",
+    "storeName": "thom. - Men’s Salon / Barbershop",
+    "ratingText": "4.9 stars 815 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 815
+  },
+  {
+    "placeId": "ChIJiR5TkyhzhlQRitWWhy9WCg4",
+    "address": "",
+    "category": "Lounge",
+    "googleUrl": "https://www.google.com/maps/place/1181+Lounge/data=!4m7!3m6!1s0x5486732893531e89:0xe0a562f8796d58a!8m2!3d49.2816175!4d-123.1328823!16s%2Fg%2F1tk6_5ld!19sChIJiR5TkyhzhlQRitWWhy9WCg4?authuser=0&hl=en&rclk=1",
+    "storeName": "1181 Lounge",
+    "ratingText": "4.3 stars 212 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 212
+  },
+  {
+    "placeId": "ChIJc-rQW01xhlQRSTGakHFDvjY",
+    "address": "",
+    "category": "Sports bar",
+    "googleUrl": "https://www.google.com/maps/place/Shark+Club+Sports+Bar+%26+Grill/data=!4m7!3m6!1s0x5486714d5bd0ea73:0x36be4371909a3149!8m2!3d49.278849!4d-123.1129919!16s%2Fg%2F11pvhlgb8m!19sChIJc-rQW01xhlQRSTGakHFDvjY?authuser=0&hl=en&rclk=1",
+    "storeName": "Shark Club Sports Bar & Grill",
+    "ratingText": "4.7 stars 1,601 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJmZqwSi9yhlQRwouQZ3IxzFI",
+    "address": "",
+    "category": "Pub",
+    "googleUrl": "https://www.google.com/maps/place/The+Park+Pub/data=!4m7!3m6!1s0x5486722f4ab09a99:0x52cc317267908bc2!8m2!3d49.2870025!4d-123.1410293!16s%2Fg%2F1hd_mxf9z!19sChIJmZqwSi9yhlQRwouQZ3IxzFI?authuser=0&hl=en&rclk=1",
+    "storeName": "The Park Pub",
+    "ratingText": "4.2 stars 804 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 804
+  },
+  {
+    "placeId": "ChIJO2J7PXlxhlQRnKVGD8aUhRw",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/OSO+Hair+Salon/data=!4m7!3m6!1s0x548671793d7b623b:0x1c8594c60f46a59c!8m2!3d49.2822879!4d-123.1123018!16s%2Fg%2F1tfkv_fz!19sChIJO2J7PXlxhlQRnKVGD8aUhRw?authuser=0&hl=en&rclk=1",
+    "storeName": "OSO Hair Salon",
+    "ratingText": "4.9 stars 337 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 337
+  },
+  {
+    "placeId": "ChIJh-mn03hxhlQRJEAzWIKrxI4",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Proper+Hair+Lounge/data=!4m7!3m6!1s0x54867178d3a7e987:0x8ec4ab8258334024!8m2!3d49.2826737!4d-123.1151677!16s%2Fg%2F1tdqb84g!19sChIJh-mn03hxhlQRJEAzWIKrxI4?authuser=0&hl=en&rclk=1",
+    "storeName": "Proper Hair Lounge",
+    "ratingText": "4.9 stars 227 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 227
+  },
+  {
+    "placeId": "ChIJucE-jlpxhlQRlO82k-rL_OE",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Prickly+Scot+Hair+Lounge/data=!4m7!3m6!1s0x5486715a8e3ec1b9:0xe1fccbea9336ef94!8m2!3d49.2625819!4d-123.0824741!16s%2Fg%2F1v7tl1r7!19sChIJucE-jlpxhlQRlO82k-rL_OE?authuser=0&hl=en&rclk=1",
+    "storeName": "Prickly Scot Hair Lounge",
+    "ratingText": "4.8 stars 30 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 30
+  },
+  {
+    "placeId": "ChIJ41mdpNVzhlQRfZXSoI7IBSs",
+    "address": "",
+    "category": "Irish pub",
+    "googleUrl": "https://www.google.com/maps/place/Johnnie+Fox%27s+Irish+Pub/data=!4m7!3m6!1s0x548673d5a49d59e3:0x2b05c88ea0d2957d!8m2!3d49.2715144!4d-123.1008991!16s%2Fg%2F1vd75m31!19sChIJ41mdpNVzhlQRfZXSoI7IBSs?authuser=0&hl=en&rclk=1",
+    "storeName": "Johnnie Fox's Irish Pub",
+    "ratingText": "4.3 stars 1,104 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJS4MA5vRxhlQRNEQd_vO-47k",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Kerp+Salon.+Barbershop+and+Hair+salon.+Men%27s+and+women%27s+services.+Downtown+Vancouver./data=!4m7!3m6!1s0x548671f4e600834b:0xb9e3bef3fe1d4434!8m2!3d49.2835605!4d-123.1134925!16s%2Fg%2F11fmjpnrx8!19sChIJS4MA5vRxhlQRNEQd_vO-47k?authuser=0&hl=en&rclk=1",
+    "storeName": "Kerp Salon. Barbershop and Hair salon. Men's and women's services. Downtown Vancouver.",
+    "ratingText": "4.9 stars 111 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 111
+  },
+  {
+    "placeId": "ChIJpW3M-3lxhlQRKl8IA9kAMWg",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Brush+Salon/data=!4m7!3m6!1s0x54867179fbcc6da5:0x683100d903085f2a!8m2!3d49.2826788!4d-123.1061601!16s%2Fg%2F11b6nl4zyv!19sChIJpW3M-3lxhlQRKl8IA9kAMWg?authuser=0&hl=en&rclk=1",
+    "storeName": "Brush Salon",
+    "ratingText": "4.9 stars 598 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 598
+  },
+  {
+    "placeId": "ChIJ81qzQNZzhlQRpC9RZnDl5N0",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Pink+Lime+Hair+Salon+Yaletown+Downtown+Vancouver/data=!4m7!3m6!1s0x548673d640b35af3:0xdde4e57066512fa4!8m2!3d49.2749099!4d-123.1224674!16s%2Fg%2F1tk67cnw!19sChIJ81qzQNZzhlQRpC9RZnDl5N0?authuser=0&hl=en&rclk=1",
+    "storeName": "Pink Lime Hair Salon Yaletown Downtown Vancouver",
+    "ratingText": "4.6 stars 995 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 995
+  },
+  {
+    "placeId": "ChIJ17PG8TJzhlQR4Edd5h5LZps",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/The+Stock+Room/data=!4m7!3m6!1s0x54867332f1c6b3d7:0x9b664b1ee65d47e0!8m2!3d49.2757334!4d-123.1223227!16s%2Fg%2F11js8njsdx!19sChIJ17PG8TJzhlQR4Edd5h5LZps?authuser=0&hl=en&rclk=1",
+    "storeName": "The Stock Room",
+    "ratingText": "4.2 stars 283 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 283
+  },
+  {
+    "placeId": "ChIJSwvdTHxxhlQR0P4YC-Lb5JM",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Harlow+Gold+Salon/data=!4m7!3m6!1s0x5486717c4cdd0b4b:0x93e4dbe20b18fed0!8m2!3d49.2778747!4d-123.113847!16s%2Fg%2F11gfnc6n2k!19sChIJSwvdTHxxhlQR0P4YC-Lb5JM?authuser=0&hl=en&rclk=1",
+    "storeName": "Harlow Gold Salon",
+    "ratingText": "4.9 stars 74 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 74
+  },
+  {
+    "placeId": "ChIJfU6-5ulzhlQRzXMfFayzzqU",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/D%2F6+Bar+%26+Lounge/data=!4m7!3m6!1s0x548673e9e6be4e7d:0xa5ceb3ac151f73cd!8m2!3d49.2755046!4d-123.1134347!16s%2Fg%2F11f4mclbfb!19sChIJfU6-5ulzhlQRzXMfFayzzqU?authuser=0&hl=en&rclk=1",
+    "storeName": "D/6 Bar & Lounge",
+    "ratingText": "3.9 stars 482 Reviews",
+    "stars": 3.9,
+    "numberOfReviews": 482
+  },
+  {
+    "placeId": "ChIJ7YoURvJxhlQRzNjtcdoRHcU",
+    "address": "521 Seymour St",
+    "category": "Cocktail bar",
+    "googleUrl": "https://www.google.com/maps/place/The+515+Bar/data=!4m7!3m6!1s0x548671f246148aed:0xc51d11da71edd8cc!8m2!3d49.283842!4d-123.1144244!16s%2Fg%2F11sgs3wy4z!19sChIJ7YoURvJxhlQRzNjtcdoRHcU?authuser=0&hl=en&rclk=1",
+    "storeName": "The 515 Bar",
+    "ratingText": "4.8 stars 172 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 172
+  },
+  {
+    "placeId": "ChIJ0xgBlYFxhlQR0sJMn1wrj1Q",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Grain+Tasting+Bar/data=!4m7!3m6!1s0x54867181950118d3:0x548f2b5c9f4cc2d2!8m2!3d49.2852161!4d-123.120374!16s%2Fg%2F1hf7f3871!19sChIJ0xgBlYFxhlQR0sJMn1wrj1Q?authuser=0&hl=en&rclk=1",
+    "storeName": "Grain Tasting Bar",
+    "ratingText": "4.2 stars 196 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 196
+  },
+  {
+    "placeId": "ChIJpW3M-3lxhlQRKl8IA9kAMWg",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Brush+Salon/data=!4m7!3m6!1s0x54867179fbcc6da5:0x683100d903085f2a!8m2!3d49.2826788!4d-123.1061601!16s%2Fg%2F11b6nl4zyv!19sChIJpW3M-3lxhlQRKl8IA9kAMWg?authuser=0&hl=en&rclk=1",
+    "storeName": "Brush Salon",
+    "ratingText": "4.9 stars 598 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 598
+  },
+  {
+    "placeId": "ChIJAWJHy3hxhlQRxAZ-J4oMWJA",
+    "address": "",
+    "category": "Grill",
+    "googleUrl": "https://www.google.com/maps/place/St+Regis+Bar+%26+Grill/data=!4m7!3m6!1s0x54867178cb476201:0x90580c8a277e06c4!8m2!3d49.2831546!4d-123.1159563!16s%2Fg%2F1tq6d5lc!19sChIJAWJHy3hxhlQRxAZ-J4oMWJA?authuser=0&hl=en&rclk=1",
+    "storeName": "St Regis Bar & Grill",
+    "ratingText": "4.1 stars 752 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": 752
+  },
+  {
+    "placeId": "ChIJS4MA5vRxhlQRNEQd_vO-47k",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Kerp+Salon.+Barbershop+and+Hair+salon.+Men%27s+and+women%27s+services.+Downtown+Vancouver./data=!4m7!3m6!1s0x548671f4e600834b:0xb9e3bef3fe1d4434!8m2!3d49.2835605!4d-123.1134925!16s%2Fg%2F11fmjpnrx8!19sChIJS4MA5vRxhlQRNEQd_vO-47k?authuser=0&hl=en&rclk=1",
+    "storeName": "Kerp Salon. Barbershop and Hair salon. Men's and women's services. Downtown Vancouver.",
+    "ratingText": "4.9 stars 111 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 111
+  },
+  {
+    "placeId": "ChIJFwkINn9xhlQRf-Sq0V6GdhE",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/juju+hair+lounge+-+hair+by+stunning+steve+juju/data=!4m7!3m6!1s0x5486717f36080917:0x1176865ed1aae47f!8m2!3d49.2577354!4d-123.123904!16s%2Fg%2F11cjhz28vg!19sChIJFwkINn9xhlQRf-Sq0V6GdhE?authuser=0&hl=en&rclk=1",
+    "storeName": "juju hair lounge - hair by stunning steve juju",
+    "ratingText": "4.4 stars 165 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 165
+  },
+  {
+    "placeId": "ChIJGT04pHBxhlQRHKrCvvnYpik",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "",
+    "googleUrl": "https://www.google.com/maps/place/Milo+Salon/data=!4m7!3m6!1s0x54867170a4383d19:0x29a6d8f9bec2aa1c!8m2!3d49.2755187!4d-123.1279323!16s%2Fg%2F11c1szvyxx!19sChIJGT04pHBxhlQRHKrCvvnYpik?authuser=0&hl=en&rclk=1",
+    "storeName": "Milo Salon",
+    "ratingText": "4.6 stars 81 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 81
+  },
+  {
+    "placeId": "ChIJM8c6YBVxhlQRmbyHdCTA63w",
+    "address": "",
+    "category": "Irish pub",
+    "googleUrl": "https://www.google.com/maps/place/Dublin+Calling/data=!4m7!3m6!1s0x54867115603ac733:0x7cebc0247487bc99!8m2!3d49.2800873!4d-123.1213981!16s%2Fg%2F11f8hkmk7t!19sChIJM8c6YBVxhlQRmbyHdCTA63w?authuser=0&hl=en&rclk=1",
+    "storeName": "Dublin Calling",
+    "ratingText": "4.0 stars 1,506 Reviews",
+    "stars": 4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJo5pWZStyhlQRr0JTUFMEVak",
+    "address": "",
+    "category": "Gay bar",
+    "googleUrl": "https://www.google.com/maps/place/PumpJack+Pub/data=!4m7!3m6!1s0x5486722b65569aa3:0xa9550453505342af!8m2!3d49.2815802!4d-123.1326552!16s%2Fg%2F11ghs8rth0!19sChIJo5pWZStyhlQRr0JTUFMEVak?authuser=0&hl=en&rclk=1",
+    "storeName": "PumpJack Pub",
+    "ratingText": "3.9 stars 239 Reviews",
+    "stars": 3.9,
+    "numberOfReviews": 239
+  },
+  {
+    "placeId": "ChIJ9drLgbdzhlQRb-xyq9j120s",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "",
+    "googleUrl": "https://www.google.com/maps/place/Velvet+Lounge+Hair+Parlour/data=!4m7!3m6!1s0x548673b781cbdaf5:0x4bdbf5d8ab72ec6f!8m2!3d49.2640472!4d-123.1460423!16s%2Fg%2F11b6x54mcd!19sChIJ9drLgbdzhlQRb-xyq9j120s?authuser=0&hl=en&rclk=1",
+    "storeName": "Velvet Lounge Hair Parlour",
+    "ratingText": "4.7 stars 75 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 75
+  },
+  {
+    "placeId": "ChIJLZ0lbYJxhlQRWlw69YPLrT4",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Moose%27s+Down+Under+Bar+and+Grill+-+Vancouver/data=!4m7!3m6!1s0x548671826d259d2d:0x3eadcb83f53a5c5a!8m2!3d49.2856437!4d-123.1165881!16s%2Fg%2F1tgfw9vd!19sChIJLZ0lbYJxhlQRWlw69YPLrT4?authuser=0&hl=en&rclk=1",
+    "storeName": "Moose's Down Under Bar and Grill - Vancouver",
+    "ratingText": "4.4 stars 1,322 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJQVCul0RxhlQR1eRTHCklJq8",
+    "address": "808 Bute St",
+    "category": "Bar",
+    "phone": "808 Bute St",
+    "googleUrl": "https://www.google.com/maps/place/Blosm+Bar+Lounge/data=!4m7!3m6!1s0x5486714497ae5041:0xaf2625291c53e4d5!8m2!3d49.2857582!4d-123.1271311!16s%2Fg%2F11rzd7sgg6!19sChIJQVCul0RxhlQR1eRTHCklJq8?authuser=0&hl=en&rclk=1",
+    "storeName": "Blosm Bar Lounge",
+    "ratingText": "5.0 stars 1 Reviews",
+    "stars": 5,
+    "numberOfReviews": 1
+  },
+  {
+    "placeId": "ChIJkcc8sH9xhlQRZj3OgaILoDY",
+    "address": "",
+    "category": "Pub",
+    "googleUrl": "https://www.google.com/maps/place/The+Ox+Pub/data=!4m7!3m6!1s0x5486717fb03cc791:0x36a00ba281ce3d66!8m2!3d49.2811111!4d-123.1197223!16s%2Fg%2F1tdw7rdg!19sChIJkcc8sH9xhlQRZj3OgaILoDY?authuser=0&hl=en&rclk=1",
+    "storeName": "The Ox Pub",
+    "ratingText": "4.1 stars 1,494 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJicc6fnpxhlQRvQ1O3a3dFiU",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Storm+Salon/data=!4m7!3m6!1s0x5486717a7e3ac789:0x2516ddaddd4e0dbd!8m2!3d49.2839592!4d-123.1054599!16s%2Fg%2F1tdm_5rj!19sChIJicc6fnpxhlQRvQ1O3a3dFiU?authuser=0&hl=en&rclk=1",
+    "storeName": "Storm Salon",
+    "ratingText": "5.0 stars 40 Reviews",
+    "stars": 5,
+    "numberOfReviews": 40
+  },
+  {
+    "placeId": "ChIJ40DGuoFxhlQRdZrpPByrHl8",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Suki%27s+Downtown/data=!4m7!3m6!1s0x54867181bac640e3:0x5f1eab1c3ce99a75!8m2!3d49.2845488!4d-123.1223174!16s%2Fg%2F1tdfsv22!19sChIJ40DGuoFxhlQRdZrpPByrHl8?authuser=0&hl=en&rclk=1",
+    "storeName": "Suki's Downtown",
+    "ratingText": "4.8 stars 902 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 902
+  },
+  {
+    "placeId": "ChIJO2J7PXlxhlQRnKVGD8aUhRw",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/OSO+Hair+Salon/data=!4m7!3m6!1s0x548671793d7b623b:0x1c8594c60f46a59c!8m2!3d49.2822879!4d-123.1123018!16s%2Fg%2F1tfkv_fz!19sChIJO2J7PXlxhlQRnKVGD8aUhRw?authuser=0&hl=en&rclk=1",
+    "storeName": "OSO Hair Salon",
+    "ratingText": "4.9 stars 337 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 337
+  },
+  {
+    "placeId": "ChIJZ3g3Z9RzhlQRAwBHOA1-EpU",
+    "address": "",
+    "category": "Mexican",
+    "googleUrl": "https://www.google.com/maps/place/Mangos+Kitchen+Bar/data=!4m7!3m6!1s0x548673d467377867:0x95127e0d38470003!8m2!3d49.2781259!4d-123.1262974!16s%2Fg%2F12hrzcjy5!19sChIJZ3g3Z9RzhlQRAwBHOA1-EpU?authuser=0&hl=en&rclk=1",
+    "storeName": "Mangos Kitchen Bar",
+    "ratingText": "4.3 stars 2,214 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ81qzQNZzhlQRpC9RZnDl5N0",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Pink+Lime+Hair+Salon+Yaletown+Downtown+Vancouver/data=!4m7!3m6!1s0x548673d640b35af3:0xdde4e57066512fa4!8m2!3d49.2749099!4d-123.1224674!16s%2Fg%2F1tk67cnw!19sChIJ81qzQNZzhlQRpC9RZnDl5N0?authuser=0&hl=en&rclk=1",
+    "storeName": "Pink Lime Hair Salon Yaletown Downtown Vancouver",
+    "ratingText": "4.6 stars 995 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 995
+  },
+  {
+    "placeId": "ChIJi0jcrkVxhlQR8Zd9xj26jdE",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "",
+    "googleUrl": "https://www.google.com/maps/place/Cult+Salon/data=!4m7!3m6!1s0x54867145aedc488b:0xd18dba3dc67d97f1!8m2!3d49.2864779!4d-123.114365!16s%2Fg%2F11f5tz3q_t!19sChIJi0jcrkVxhlQR8Zd9xj26jdE?authuser=0&hl=en&rclk=1",
+    "storeName": "Cult Salon",
+    "ratingText": "4.9 stars 44 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 44
+  },
+  {
+    "placeId": "ChIJ56ju09ZzhlQReQfc9YTgEfY",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/is.+Salon+Yaletown/data=!4m7!3m6!1s0x548673d6d3eea8e7:0xf611e084f5dc0779!8m2!3d49.2742389!4d-123.1235117!16s%2Fg%2F1td4zk0x!19sChIJ56ju09ZzhlQReQfc9YTgEfY?authuser=0&hl=en&rclk=1",
+    "storeName": "is. Salon Yaletown",
+    "ratingText": "4.9 stars 864 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 864
+  },
+  {
+    "placeId": "ChIJVyiQs31xhlQRvTelBNrAipY",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/District+Bar+Restaurant+Vancouver/data=!4m7!3m6!1s0x5486717db3902857:0x968ac0da04a537bd!8m2!3d49.2778916!4d-123.1140941!16s%2Fg%2F1q5bng4h9!19sChIJVyiQs31xhlQRvTelBNrAipY?authuser=0&hl=en&rclk=1",
+    "storeName": "District Bar Restaurant Vancouver",
+    "ratingText": "4.1 stars 354 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": 354
+  },
+  {
+    "placeId": "ChIJG9t1otNzhlQRPE-JO0HKreE",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Salon+Esprit/data=!4m7!3m6!1s0x548673d3a275db1b:0xe1adca413b894f3c!8m2!3d49.2767847!4d-123.1304009!16s%2Fg%2F11g_v2bdh!19sChIJG9t1otNzhlQRPE-JO0HKreE?authuser=0&hl=en&rclk=1",
+    "storeName": "Salon Esprit",
+    "ratingText": "4.7 stars 101 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 101
+  },
+  {
+    "placeId": "ChIJZTzSYXhxhlQRJ62ucPtFr_U",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Cutting+Club+Hair+Salon/data=!4m7!3m6!1s0x5486717861d23c65:0xf5af45fb70aead27!8m2!3d49.284916!4d-123.111593!16s%2Fg%2F1tknk3sy!19sChIJZTzSYXhxhlQRJ62ucPtFr_U?authuser=0&hl=en&rclk=1",
+    "storeName": "Cutting Club Hair Salon",
+    "ratingText": "4.7 stars 39 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 39
+  },
+  {
+    "placeId": "ChIJP2YOE9RzhlQRBF8z709z_UA",
+    "address": "",
+    "category": "Grill",
+    "googleUrl": "https://www.google.com/maps/place/Two+Parrots+Bar+%26+Grill/data=!4m7!3m6!1s0x548673d4130e663f:0x40fd734fef335f04!8m2!3d49.27696!4d-123.1261726!16s%2Fg%2F1ts1ry3z!19sChIJP2YOE9RzhlQRBF8z709z_UA?authuser=0&hl=en&rclk=1",
+    "storeName": "Two Parrots Bar & Grill",
+    "ratingText": "4.1 stars 1,667 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJwdi9uXlxhlQRe6VP8Uv-PJc",
+    "address": "",
+    "category": "Grill",
+    "googleUrl": "https://www.google.com/maps/place/The+Cambie+Bar+%26+Grill/data=!4m7!3m6!1s0x54867179b9bdd8c1:0x973cfe4bf14fa57b!8m2!3d49.2831142!4d-123.109!16s%2Fg%2F1tfmhhpz!19sChIJwdi9uXlxhlQRe6VP8Uv-PJc?authuser=0&hl=en&rclk=1",
+    "storeName": "The Cambie Bar & Grill",
+    "ratingText": "4.1 stars 3,357 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJ9dUZYA1xhlQRtpNF-NmlBLI",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Ventura+Room/data=!4m7!3m6!1s0x5486710d6019d5f5:0xb204a5d9f84593b6!8m2!3d49.2796748!4d-123.1130907!16s%2Fg%2F11h5mdfk7r!19sChIJ9dUZYA1xhlQRtpNF-NmlBLI?authuser=0&hl=en&rclk=1",
+    "storeName": "Ventura Room",
+    "ratingText": "4.6 stars 209 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 209
+  },
+  {
+    "placeId": "ChIJ2dOhlu5xhlQRdQcjKf30Vfw",
+    "address": "776 Thurlow St",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/JK+HAIR+SALON/data=!4m7!3m6!1s0x548671ee96a1d3d9:0xfc55f4fd29230775!8m2!3d49.2847242!4d-123.124483!16s%2Fg%2F11f64h7qh5!19sChIJ2dOhlu5xhlQRdQcjKf30Vfw?authuser=0&hl=en&rclk=1",
+    "storeName": "JK HAIR SALON",
+    "ratingText": "4.7 stars 197 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 197
+  },
+  {
+    "placeId": "ChIJ84yvENRzhlQRi1BmnnChCHE",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/All4One+Barbershop+%26+Beauty+Salon/data=!4m7!3m6!1s0x548673d410af8cf3:0x7108a1709e66508b!8m2!3d49.2755802!4d-123.1233829!16s%2Fg%2F11b7f1fn_m!19sChIJ84yvENRzhlQRi1BmnnChCHE?authuser=0&hl=en&rclk=1",
+    "storeName": "All4One Barbershop & Beauty Salon",
+    "ratingText": "4.5 stars 192 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 192
+  },
+  {
+    "placeId": "ChIJvzgBQNVzhlQRFmLq5fcuTH4",
+    "address": "",
+    "category": "Pub",
+    "googleUrl": "https://www.google.com/maps/place/Relish+The+Pub/data=!4m7!3m6!1s0x548673d5400138bf:0x7e4c2ef7e5ea6216!8m2!3d49.2802589!4d-123.1250724!16s%2Fg%2F1txfnvfv!19sChIJvzgBQNVzhlQRFmLq5fcuTH4?authuser=0&hl=en&rclk=1",
+    "storeName": "Relish The Pub",
+    "ratingText": "4.1 stars 1,020 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJUwY964NxhlQRslxEl4a2VZM",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Showcase+Restaurant+%26+Bar/data=!4m7!3m6!1s0x54867183eb3d0653:0x9355b68697445cb2!8m2!3d49.2878584!4d-123.1203357!16s%2Fg%2F1th23hb4!19sChIJUwY964NxhlQRslxEl4a2VZM?authuser=0&hl=en&rclk=1",
+    "storeName": "Showcase Restaurant & Bar",
+    "ratingText": "4.3 stars 367 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 367
+  },
+  {
+    "placeId": "ChIJ8xyzy-NzhlQR59plebSd8m0",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Pomp+%26+Proper+Salon/data=!4m7!3m6!1s0x548673e3cbb31cf3:0x6df29db47965dae7!8m2!3d49.2599989!4d-123.1008222!16s%2Fg%2F1thzth8l!19sChIJ8xyzy-NzhlQR59plebSd8m0?authuser=0&hl=en&rclk=1",
+    "storeName": "Pomp & Proper Salon",
+    "ratingText": "4.7 stars 79 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 79
+  },
+  {
+    "placeId": "ChIJFf-ui9VzhlQRWZ0PCpWWl70",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Headspace+Hair+Salon/data=!4m7!3m6!1s0x548673d58baeff15:0xbd9796950a0f9d59!8m2!3d49.2791332!4d-123.1210004!16s%2Fg%2F1td1pks7!19sChIJFf-ui9VzhlQRWZ0PCpWWl70?authuser=0&hl=en&rclk=1",
+    "storeName": "Headspace Hair Salon",
+    "ratingText": "4.8 stars 63 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 63
+  },
+  {
+    "placeId": "ChIJ9fUTWtZzhlQRdF3O0Nh_qdg",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Moods+Hair+Salon/data=!4m7!3m6!1s0x548673d65a13f5f5:0xd8a97fd8d0ce5d74!8m2!3d49.2756495!4d-123.1202647!16s%2Fg%2F1tj_4yns!19sChIJ9fUTWtZzhlQRdF3O0Nh_qdg?authuser=0&hl=en&rclk=1",
+    "storeName": "Moods Hair Salon",
+    "ratingText": "4.7 stars 292 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 292
+  },
+  {
+    "placeId": "ChIJL2MEH4hxhlQRSScBOZ5fCIw",
+    "address": "",
+    "category": "Eyebrow bar",
+    "googleUrl": "https://www.google.com/maps/place/Vancouver+Beauty+Bar/data=!4m7!3m6!1s0x548671881f04632f:0x8c085f9e39012749!8m2!3d49.2909917!4d-123.1359493!16s%2Fg%2F11cm0f2ydv!19sChIJL2MEH4hxhlQRSScBOZ5fCIw?authuser=0&hl=en&rclk=1",
+    "storeName": "Vancouver Beauty Bar",
+    "ratingText": "4.9 stars 198 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 198
+  },
+  {
+    "placeId": "ChIJ1ycXHtRzhlQRipfZ7EBPsW0",
+    "address": "1088 Hornby St",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Salon+Origins/data=!4m7!3m6!1s0x548673d41e1727d7:0x6db14f40ecd9978a!8m2!3d49.2795809!4d-123.126202!16s%2Fg%2F1vr3cw5d!19sChIJ1ycXHtRzhlQRipfZ7EBPsW0?authuser=0&hl=en&rclk=1",
+    "storeName": "Salon Origins",
+    "ratingText": "4.9 stars 41 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 41
+  },
+  {
+    "placeId": "ChIJQ6E-sHZxhlQRNCemyBpyOCc",
+    "address": "565 W Pender St",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/Chez+Mari+Salon/data=!4m7!3m6!1s0x54867176b03ea143:0x2738721ac8a62734!8m2!3d49.283868!4d-123.1134236!16s%2Fg%2F11hf26zhkz!19sChIJQ6E-sHZxhlQRNCemyBpyOCc?authuser=0&hl=en&rclk=1",
+    "storeName": "Chez Mari Salon",
+    "ratingText": "4.8 stars 305 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 305
+  },
+  {
+    "placeId": "ChIJ9U55-0JxhlQRuDK5ABepG3I",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/2545+Salon+and+Spa+Robson/data=!4m7!3m6!1s0x54867142fb794ef5:0x721ba91700b932b8!8m2!3d49.2861919!4d-123.1275792!16s%2Fg%2F11pf97gm4k!19sChIJ9U55-0JxhlQRuDK5ABepG3I?authuser=0&hl=en&rclk=1",
+    "storeName": "2545 Salon and Spa Robson",
+    "ratingText": "4.7 stars 116 Reviews",
+    "stars": 4.7,
+    "numberOfReviews": 116
+  },
+  {
+    "placeId": "ChIJm1LjeoFxhlQRGxO9pkBnFaE",
+    "address": "",
+    "category": "Lounge",
+    "googleUrl": "https://www.google.com/maps/place/The+Hide+Lounge/data=!4m7!3m6!1s0x548671817ae3529b:0xa1156740a6bd131b!8m2!3d49.2864912!4d-123.1213098!16s%2Fg%2F11cjk4jvwv!19sChIJm1LjeoFxhlQRGxO9pkBnFaE?authuser=0&hl=en&rclk=1",
+    "storeName": "The Hide Lounge",
+    "ratingText": "4.2 stars 29 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 29
+  },
+  {
+    "placeId": "ChIJEz2eZYBxhlQRNc6gUUIm4Ik",
+    "address": "",
+    "category": "Nail salon",
+    "googleUrl": "https://www.google.com/maps/place/KAEN/data=!4m7!3m6!1s0x54867180659e3d13:0x89e0264251a0ce35!8m2!3d49.2845952!4d-123.1142845!16s%2Fg%2F11bccj9c21!19sChIJEz2eZYBxhlQRNc6gUUIm4Ik?authuser=0&hl=en&rclk=1",
+    "storeName": "KAEN",
+    "ratingText": "4.5 stars 95 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 95
+  },
+  {
+    "placeId": "ChIJG_9jCH5xhlQRtcDS3SP5k_U",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/Homer+St.+Cafe+and+Bar/data=!4m7!3m6!1s0x5486717e0863ff1b:0xf593f923ddd2c0b5!8m2!3d49.2784139!4d-123.1182764!16s%2Fg%2F12m94glw4!19sChIJG_9jCH5xhlQRtcDS3SP5k_U?authuser=0&hl=en&rclk=1",
+    "storeName": "Homer St. Cafe and Bar",
+    "ratingText": "4.4 stars 1,840 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJQ8Ud3xxxhlQRchR78mrOr0M",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/New+Brandiz+Pub/data=!4m7!3m6!1s0x5486711cdf1dc543:0x43afce6af27b1472!8m2!3d49.2812305!4d-123.1016606!16s%2Fg%2F11f6y9rzv5!19sChIJQ8Ud3xxxhlQRchR78mrOr0M?authuser=0&hl=en&rclk=1",
+    "storeName": "New Brandiz Pub",
+    "ratingText": "3.8 stars 45 Reviews",
+    "stars": 3.8,
+    "numberOfReviews": 45
+  },
+  {
+    "placeId": "ChIJu3YDKt1zhlQROP8nu23Za4c",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Capelli+Salon+Vancouver/data=!4m7!3m6!1s0x548673dd2a0376bb:0x876bd96dbb27ff38!8m2!3d49.2636737!4d-123.1197258!16s%2Fg%2F12nqgnr40!19sChIJu3YDKt1zhlQROP8nu23Za4c?authuser=0&hl=en&rclk=1",
+    "storeName": "Capelli Salon Vancouver",
+    "ratingText": "4.9 stars 119 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 119
+  },
+  {
+    "placeId": "ChIJDe-U4n9xhlQRHe5feMqgXwM",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Earls+Kitchen+%2B+Bar/data=!4m7!3m6!1s0x5486717fe294ef0d:0x35fa0ca785fee1d!8m2!3d49.2815372!4d-123.123683!16s%2Fg%2F1tkqzz5p!19sChIJDe-U4n9xhlQRHe5feMqgXwM?authuser=0&hl=en&rclk=1",
+    "storeName": "Earls Kitchen + Bar",
+    "ratingText": "4.2 stars 2,613 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJaVfhKyZyhlQRwe3CSGp5_3o",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Uncut+Salon/data=!4m7!3m6!1s0x548672262be15769:0x7aff796a48c2edc1!8m2!3d49.287102!4d-123.1412222!16s%2Fg%2F1tdgpjbm!19sChIJaVfhKyZyhlQRwe3CSGp5_3o?authuser=0&hl=en&rclk=1",
+    "storeName": "Uncut Salon",
+    "ratingText": "4.8 stars 23 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 23
+  },
+  {
+    "placeId": "ChIJzekgeeJxhlQR2X_6Wx4q8Io",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/GRETA+Bar+YVR/data=!4m7!3m6!1s0x548671e27920e9cd:0x8af02a1e5bfa7fd9!8m2!3d49.2826335!4d-123.1057661!16s%2Fg%2F11q9g9hjgg!19sChIJzekgeeJxhlQR2X_6Wx4q8Io?authuser=0&hl=en&rclk=1",
+    "storeName": "GRETA Bar YVR",
+    "ratingText": "4.1 stars 933 Reviews",
+    "stars": 4.1,
+    "numberOfReviews": 933
+  },
+  {
+    "placeId": "ChIJtcTNrrJzhlQRgmLRFfUJWgM",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Poppy+Hair+Salon/data=!4m7!3m6!1s0x548673b2aecdc4b5:0x35a09f515d16282!8m2!3d49.2683427!4d-123.1660241!16s%2Fg%2F1trxdd7h!19sChIJtcTNrrJzhlQRgmLRFfUJWgM?authuser=0&hl=en&rclk=1",
+    "storeName": "Poppy Hair Salon",
+    "ratingText": "4.6 stars 271 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 271
+  },
+  {
+    "placeId": "ChIJp6SOq99xhlQRYTSz8IjrPQs",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Centre+Bar/data=!4m7!3m6!1s0x548671dfab8ea4a7:0xb3deb88f0b33461!8m2!3d49.27559!4d-123.11327!16s%2Fg%2F11j0xp4k44!19sChIJp6SOq99xhlQRYTSz8IjrPQs?authuser=0&hl=en&rclk=1",
+    "storeName": "Centre Bar",
+    "ratingText": "4.3 stars 7 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 7
+  },
+  {
+    "placeId": "ChIJH8sJ5KVxhlQRcY0n5vWA3v8",
+    "address": "",
+    "category": "Lounge",
+    "googleUrl": "https://www.google.com/maps/place/Coal+Harbour+Bar/data=!4m7!3m6!1s0x548671a5e409cb1f:0xffde80f5e6278d71!8m2!3d49.2884299!4d-123.1128777!16s%2Fg%2F1hm1_h9_1!19sChIJH8sJ5KVxhlQRcY0n5vWA3v8?authuser=0&hl=en&rclk=1",
+    "storeName": "Coal Harbour Bar",
+    "ratingText": "4.2 stars 53 Reviews",
+    "stars": 4.2,
+    "numberOfReviews": 53
+  },
+  {
+    "placeId": "ChIJwbJx0HtxhlQRa0VNgzsg1hI",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Workshop+Salon/data=!4m7!3m6!1s0x5486717bd071b2c1:0x12d6203b834d456b!8m2!3d49.2807238!4d-123.1088806!16s%2Fg%2F113hlpqdp!19sChIJwbJx0HtxhlQRa0VNgzsg1hI?authuser=0&hl=en&rclk=1",
+    "storeName": "Workshop Salon",
+    "ratingText": "4.9 stars 395 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 395
+  },
+  {
+    "placeId": "ChIJGdCptHhxhlQR5OKcIP64od4",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/The+Keg+Steakhouse+%2B+Bar+-+Dunsmuir/data=!4m7!3m6!1s0x54867178b4a9d019:0xdea1b8fe209ce2e4!8m2!3d49.2834448!4d-123.116359!16s%2Fg%2F12ml2x_k6!19sChIJGdCptHhxhlQR5OKcIP64od4?authuser=0&hl=en&rclk=1",
+    "storeName": "The Keg Steakhouse + Bar - Dunsmuir",
+    "ratingText": "4.4 stars 2,508 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJT6xsmA5zhlQRIqOeeNicET0",
+    "address": "",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/BEAU+SALON/data=!4m7!3m6!1s0x5486730e986cac4f:0x3d119cd8789ea322!8m2!3d49.273947!4d-123.1268144!16s%2Fg%2F11ss5j0m3g!19sChIJT6xsmA5zhlQRIqOeeNicET0?authuser=0&hl=en&rclk=1",
+    "storeName": "BEAU SALON",
+    "ratingText": "4.9 stars 115 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 115
+  },
+  {
+    "placeId": "ChIJO4AhIBNzhlQR1sdNx__mJ3k",
+    "address": "",
+    "category": "Grill",
+    "googleUrl": "https://www.google.com/maps/place/Good+Co.+Granville/data=!4m7!3m6!1s0x548673132021803b:0x7927e6ffc74dc7d6!8m2!3d49.2797122!4d-123.1227289!16s%2Fg%2F11flmxjmd3!19sChIJO4AhIBNzhlQR1sdNx__mJ3k?authuser=0&hl=en&rclk=1",
+    "storeName": "Good Co. Granville",
+    "ratingText": "4.0 stars 1,683 Reviews",
+    "stars": 4,
+    "numberOfReviews": null
+  },
+  {
+    "placeId": "ChIJraskg9VzhlQR41MQMpqGkUs",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Granville+Room/data=!4m7!3m6!1s0x548673d58324abad:0x4b91869a321053e3!8m2!3d49.2798169!4d-123.1225639!16s%2Fg%2F1tnpf3h4!19sChIJraskg9VzhlQR41MQMpqGkUs?authuser=0&hl=en&rclk=1",
+    "storeName": "Granville Room",
+    "ratingText": "4.0 stars 583 Reviews",
+    "stars": 4,
+    "numberOfReviews": 583
+  },
+  {
+    "placeId": "ChIJgz2gx8NzhlQRiQ_OI9SbLr4",
+    "address": "785 Davie St",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/Honeybrew+Strudel+Bar/data=!4m7!3m6!1s0x548673c3c7a03d83:0xbe2e9bd423ce0f89!8m2!3d49.2777702!4d-123.1268652!16s%2Fg%2F11hkstn2lf!19sChIJgz2gx8NzhlQRiQ_OI9SbLr4?authuser=0&hl=en&rclk=1",
+    "storeName": "Honeybrew Strudel Bar",
+    "ratingText": "4.4 stars 207 Reviews",
+    "stars": 4.4,
+    "numberOfReviews": 207
+  },
+  {
+    "placeId": "ChIJ3eBabtdzhlQRGlvqoQg7tUQ",
+    "address": "",
+    "category": "Restaurant",
+    "googleUrl": "https://www.google.com/maps/place/The+Wine+Bar+at+Provence+Marinaside/data=!4m7!3m6!1s0x548673d76e5ae0dd:0x44b53b08a1ea5b1a!8m2!3d49.2733585!4d-123.1196179!16s%2Fg%2F11bbrhhryp!19sChIJ3eBabtdzhlQRGlvqoQg7tUQ?authuser=0&hl=en&rclk=1",
+    "storeName": "The Wine Bar at Provence Marinaside",
+    "ratingText": "4.3 stars 105 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 105
+  },
+  {
+    "placeId": "ChIJEYz1RwBxhlQRZQLylDwvT5Q",
+    "address": "",
+    "category": "Bar",
+    "googleUrl": "https://www.google.com/maps/place/The+Ballyhoo+Public+House/data=!4m7!3m6!1s0x5486710047f58c11:0x944f2f3c94f20265!8m2!3d49.282096!4d-123.1239668!16s%2Fg%2F11h44m9zdy!19sChIJEYz1RwBxhlQRZQLylDwvT5Q?authuser=0&hl=en&rclk=1",
+    "storeName": "The Ballyhoo Public House",
+    "ratingText": "4.3 stars 391 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 391
+  },
+  {
+    "placeId": "ChIJxw05HNFzhlQRqIVm__9NW04",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Lumo+Salon/data=!4m7!3m6!1s0x548673d11c390dc7:0x4e5b4dffff6685a8!8m2!3d49.273401!4d-123.1265387!16s%2Fg%2F1tdbf3hq!19sChIJxw05HNFzhlQRqIVm__9NW04?authuser=0&hl=en&rclk=1",
+    "storeName": "Lumo Salon",
+    "ratingText": "4.5 stars 123 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 123
+  },
+  {
+    "placeId": "ChIJBdgpoHNzhlQR-ABzrxN2gsg",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/FORME+Hair+Salon+Yaletown/data=!4m7!3m6!1s0x54867373a029d805:0xc8827613af7300f8!8m2!3d49.2758089!4d-123.1187361!16s%2Fg%2F11mk60wtxh!19sChIJBdgpoHNzhlQR-ABzrxN2gsg?authuser=0&hl=en&rclk=1",
+    "storeName": "FORME Hair Salon Yaletown",
+    "ratingText": "4.8 stars 185 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 185
+  },
+  {
+    "placeId": "ChIJBQZa239xhlQRWipfuSahjOk",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Lure+Salon/data=!4m7!3m6!1s0x5486717fdb5a0605:0xe98ca126b95f2a5a!8m2!3d49.2810164!4d-123.1220264!16s%2Fg%2F1tj6tj17!19sChIJBQZa239xhlQRWipfuSahjOk?authuser=0&hl=en&rclk=1",
+    "storeName": "Lure Salon",
+    "ratingText": "4.6 stars 139 Reviews",
+    "stars": 4.6,
+    "numberOfReviews": 139
+  },
+  {
+    "placeId": "ChIJBXwXBHBxhlQR2olS-vpZGRo",
+    "address": "630 Main St",
+    "category": "Beauty salon",
+    "phone": "630 Main St",
+    "googleUrl": "https://www.google.com/maps/place/Zukay+Beauty+Center/data=!4m7!3m6!1s0x5486717004177c05:0x1a1959fafa5289da!8m2!3d49.2789262!4d-123.0995606!16s%2Fg%2F1tp07syn!19sChIJBXwXBHBxhlQR2olS-vpZGRo?authuser=0&hl=en&rclk=1",
+    "storeName": "Zukay Beauty Center",
+    "ratingText": "4.3 stars 20 Reviews",
+    "stars": 4.3,
+    "numberOfReviews": 20
+  },
+  {
+    "placeId": "ChIJ_6mdrYZxhlQR-lMxzwpzyEg",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Sakura+Salon/data=!4m7!3m6!1s0x54867186ad9da9ff:0x48c8730acf3153fa!8m2!3d49.2882219!4d-123.1239625!16s%2Fg%2F11b5wn9d8h!19sChIJ_6mdrYZxhlQR-lMxzwpzyEg?authuser=0&hl=en&rclk=1",
+    "storeName": "Sakura Salon",
+    "ratingText": "4.8 stars 113 Reviews",
+    "stars": 4.8,
+    "numberOfReviews": 113
+  },
+  {
+    "placeId": "ChIJ49OS0zFxhlQReGQTd3O9aTc",
+    "address": "207-181 Keefer Pl",
+    "category": "Hair salon",
+    "googleUrl": "https://www.google.com/maps/place/CuE+Hair+Salon/data=!4m7!3m6!1s0x54867131d392d3e3:0x3769bd7377136478!8m2!3d49.280073!4d-123.1083388!16s%2Fg%2F11h71nfrjh!19sChIJ49OS0zFxhlQReGQTd3O9aTc?authuser=0&hl=en&rclk=1",
+    "storeName": "CuE Hair Salon",
+    "ratingText": "4.5 stars 92 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 92
+  },
+  {
+    "placeId": "ChIJD8KFA8JxhlQRHTRt7SikrWY",
+    "address": "332 Water St #110",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/TOKIWA+HAIR/data=!4m7!3m6!1s0x548671c20385c20f:0x66ada428ed6d341d!8m2!3d49.2843502!4d-123.1096215!16s%2Fg%2F11shrltlsp!19sChIJD8KFA8JxhlQRHTRt7SikrWY?authuser=0&hl=en&rclk=1",
+    "storeName": "TOKIWA HAIR",
+    "ratingText": "5.0 stars 19 Reviews",
+    "stars": 5,
+    "numberOfReviews": 19
+  },
+  {
+    "placeId": "ChIJXwPOaXdxhlQRAyx8MIpz5wQ",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/FLOWSTATE+HAIR+DESIGN/data=!4m7!3m6!1s0x5486717769ce035f:0x4e7738a307c2c03!8m2!3d49.2839878!4d-123.1053755!16s%2Fg%2F11g81ch2tl!19sChIJXwPOaXdxhlQRAyx8MIpz5wQ?authuser=0&hl=en&rclk=1",
+    "storeName": "FLOWSTATE HAIR DESIGN",
+    "ratingText": "4.9 stars 71 Reviews",
+    "stars": 4.9,
+    "numberOfReviews": 71
+  },
+  {
+    "placeId": "ChIJ-RAn7tZzhlQR7N_GB8VDSKw",
+    "address": "",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Blo+Blow+Dry+Bar/data=!4m7!3m6!1s0x548673d6ee2710f9:0xac4843c507c6dfec!8m2!3d49.2753194!4d-123.1219033!16s%2Fg%2F1th282k0!19sChIJ-RAn7tZzhlQR7N_GB8VDSKw?authuser=0&hl=en&rclk=1",
+    "storeName": "Blo Blow Dry Bar",
+    "ratingText": "4.5 stars 167 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 167
+  },
+  {
+    "placeId": "ChIJsUKDIL9zhlQRXV4oeHUXvWQ",
+    "address": "1529 W 14th Ave",
+    "category": "Beauty salon",
+    "googleUrl": "https://www.google.com/maps/place/Blo+Blow+Dry+Bar/data=!4m7!3m6!1s0x548673bf208342b1:0x64bd177578285e5d!8m2!3d49.2590744!4d-123.1391409!16s%2Fg%2F1tgnls60!19sChIJsUKDIL9zhlQRXV4oeHUXvWQ?authuser=0&hl=en&rclk=1",
+    "storeName": "Blo Blow Dry Bar",
+    "ratingText": "4.5 stars 147 Reviews",
+    "stars": 4.5,
+    "numberOfReviews": 147
+  }
+]

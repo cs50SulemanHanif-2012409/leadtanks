@@ -9,7 +9,7 @@ import { FaSearchengin } from "react-icons/fa";
 import { useState, useEffect } from 'react'
 import api from '../../components/fectcher'
 import { useCookies } from "react-cookie";
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 
 export default function UserHome() {
@@ -34,15 +34,15 @@ export default function UserHome() {
             if (status) {
                 console.log(user)
                 setMe(user)
-                if(user.isBanned){
+                if (user.isBanned) {
                     toast({
-                        title : 'Account Banned!!',
-                        description : 'Your Account is Disabled. Please contact Support Team',
-                        position : 'top-right',
-                        duration : 4000,
-                        status : 'error'
+                        title: 'Account Banned!!',
+                        description: 'Your Account is Disabled. Please contact Support Team',
+                        position: 'top-right',
+                        duration: 4000,
+                        status: 'error'
                     })
-                 logOut()
+                    logOut()
                 }
             } else {
                 console.log(status, message)
@@ -80,7 +80,9 @@ export default function UserHome() {
                         <Text ml={2} >Orders</Text>
                     </Flex>
                     <Flex p={3} >
-                        <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Orders</Text>
+                        <Link to={'/dashboard/orders'} >
+                            <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Orders</Text>
+                        </Link>
                     </Flex>
                 </Card>
                 <Card w={'lg'}>
@@ -89,7 +91,9 @@ export default function UserHome() {
                         <Text ml={2} >Account</Text>
                     </Flex>
                     <Flex p={3} >
-                        <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Edit Profile</Text>
+                        <Link to={'/dashboard/profile'} >
+                            <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Edit Profile</Text>
+                        </Link>
                     </Flex>
                     <Flex p={3} >
                         <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Forgot Password</Text>
@@ -101,31 +105,26 @@ export default function UserHome() {
                         <Text ml={2} >Packages</Text>
                     </Flex>
                     <Flex p={3} >
-                        <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >My Packages</Text>
+                        <Link to={'/dashboard/packages'} >
+                            <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >My Packages</Text>
+                        </Link>
                     </Flex>
                     <Flex p={3} >
-                        <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Buy new Packages</Text>
+                        <Link to={'/listing/search'} >
+                            <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Buy new Packages</Text>
+                        </Link>
                     </Flex>
                 </Card>
-                <Card w={'lg'}>
-                    <Flex bg={'gray.200'} alignItems={'center'} p={3} roundedTop={6} >
-                        <MdHistory color="orange" fontSize={24} />
-                        <Text ml={2} >History</Text>
-                    </Flex>
-                    <Flex p={3} >
-                        <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Order History</Text>
-                    </Flex>
-                    <Flex p={3} >
-                        <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Payment Disputes</Text>
-                    </Flex>
-                </Card>
+        
                 <Card w={'lg'}>
                     <Flex bg={'gray.200'} alignItems={'center'} p={3} roundedTop={6} >
                         <FaSearchengin color="orange" fontSize={24} />
                         <Text ml={2} >Lead Engine</Text>
                     </Flex>
                     <Flex p={3} >
-                        <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Lead Engine</Text>
+                        <Link to={'/dashboard/engine'} >
+                            <Text textDecor={'underline'} _hover={{ cursor: 'pointer' }} >Lead Engine</Text>
+                        </Link>
                     </Flex>
                 </Card>
             </Flex>
